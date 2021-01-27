@@ -1,0 +1,517 @@
+E:\TCPServerAndClient\PCClient\PCClient\PCClient\bin\Debug\PCClient.exe.config
+E:\TCPServerAndClient\PCClient\PCClient\PCClient\bin\Debug\PCClient.exe
+E:\TCPServerAndClient\PCClient\PCClient\PCClient\bin\Debug\PCClient.pdb
+E:\TCPServerAndClient\PCClient\PCClient\PCClient\obj\Debug\PCClient.Form1.resources
+E:\TCPServerAndClient\PCClient\PCClient\PCClient\obj\Debug\PCClient.Properties.Resources.resources
+E:\TCPServerAndClient\PCClient\PCClient\PCClient\obj\Debug\PCClient.csproj.GenerateResource.Cache
+E:\TCPServerAndClient\PCClient\PCClient\PCClient\obj\Debug\PCClient.exe
+E:\TCPServerAndClient\PCClient\PCClient\PCClient\obj\Debug\PCClient.pdb
+E:\TCPServerAndClient\PCClient\PCClient\PCClient\obj\Debug\PCClient.csprojResolveAssemblyReference.cache
+E:\TCPServerAndClient\PCClient\PCClient\PCClient\bin\Debug\PCClient.exe.manifest
+E:\TCPServerAndClient\PCClient\PCClient\PCClient\bin\Debug\PCClient.application
+E:\TCPServerAndClient\PCClient\PCClient\PCClient\obj\Debug\PCClient.exe.manifest
+E:\TCPServerAndClient\PCClient\PCClient\PCClient\obj\Debug\PCClient.application
+E:\TCPServerAndClient\PCClient\PCClient\PCClient\bin\Debug\SunnyUI.dll
+F:\2020-12-14色差仪项目\PCClient\PCClient\bin\Debug\PCClient.exe.config
+F:\2020-12-14色差仪项目\PCClient\PCClient\bin\Debug\PCClient.exe.manifest
+F:\2020-12-14色差仪项目\PCClient\PCClient\bin\Debug\PCClient.application
+F:\2020-12-14色差仪项目\PCClient\PCClient\bin\Debug\PCClient.exe
+F:\2020-12-14色差仪项目\PCClient\PCClient\bin\Debug\PCClient.pdb
+F:\2020-12-14色差仪项目\PCClient\PCClient\bin\Debug\ColorimeterDAO.dll
+F:\2020-12-14色差仪项目\PCClient\PCClient\bin\Debug\ColorimeterService.dll
+F:\2020-12-14色差仪项目\PCClient\PCClient\bin\Debug\SunnyUI.dll
+F:\2020-12-14色差仪项目\PCClient\PCClient\bin\Debug\ColorimeterDAO.pdb
+F:\2020-12-14色差仪项目\PCClient\PCClient\bin\Debug\ColorimeterService.pdb
+F:\2020-12-14色差仪项目\PCClient\PCClient\obj\Debug\PCClient.csprojResolveAssemblyReference.cache
+F:\2020-12-14色差仪项目\PCClient\PCClient\obj\Debug\PCClient.LoginForm.resources
+F:\2020-12-14色差仪项目\PCClient\PCClient\obj\Debug\PCClient.MainForm.resources
+F:\2020-12-14色差仪项目\PCClient\PCClient\obj\Debug\PCClient.Properties.Resources.resources
+F:\2020-12-14色差仪项目\PCClient\PCClient\obj\Debug\PCClient.TestFormServer.resources
+F:\2020-12-14色差仪项目\PCClient\PCClient\obj\Debug\PCClient.csproj.GenerateResource.Cache
+F:\2020-12-14色差仪项目\PCClient\PCClient\obj\Debug\PCClient.exe.manifest
+F:\2020-12-14色差仪项目\PCClient\PCClient\obj\Debug\PCClient.application
+F:\2020-12-14色差仪项目\PCClient\PCClient\obj\Debug\PCClient.exe
+F:\2020-12-14色差仪项目\PCClient\PCClient\obj\Debug\PCClient.pdb
+E:\TCPServerAndClient\2020-12-14色差仪项目\PCClient\PCClient\bin\Debug\PCClient.exe.config
+E:\TCPServerAndClient\2020-12-14色差仪项目\PCClient\PCClient\obj\Debug\PCClient.exe
+E:\TCPServerAndClient\2020-12-14色差仪项目\PCClient\PCClient\obj\Debug\PCClient.pdb
+E:\TCPServerAndClient\2020-12-14色差仪项目\PCClient\PCClient\bin\Debug\PCClient.exe.manifest
+E:\TCPServerAndClient\2020-12-14色差仪项目\PCClient\PCClient\bin\Debug\PCClient.application
+E:\TCPServerAndClient\2020-12-14色差仪项目\PCClient\PCClient\bin\Debug\PCClient.exe
+E:\TCPServerAndClient\2020-12-14色差仪项目\PCClient\PCClient\bin\Debug\PCClient.pdb
+E:\TCPServerAndClient\2020-12-14色差仪项目\PCClient\PCClient\bin\Debug\ColorimeterDAO.dll
+E:\TCPServerAndClient\2020-12-14色差仪项目\PCClient\PCClient\bin\Debug\ColorimeterService.dll
+E:\TCPServerAndClient\2020-12-14色差仪项目\PCClient\PCClient\bin\Debug\SunnyUI.dll
+E:\TCPServerAndClient\2020-12-14色差仪项目\PCClient\PCClient\bin\Debug\ColorimeterDAO.pdb
+E:\TCPServerAndClient\2020-12-14色差仪项目\PCClient\PCClient\bin\Debug\ColorimeterService.pdb
+E:\TCPServerAndClient\2020-12-14色差仪项目\PCClient\PCClient\obj\Debug\PCClient.csprojResolveAssemblyReference.cache
+E:\TCPServerAndClient\2020-12-14色差仪项目\PCClient\PCClient\obj\Debug\PCClient.LoginForm.resources
+E:\TCPServerAndClient\2020-12-14色差仪项目\PCClient\PCClient\obj\Debug\PCClient.Properties.Resources.resources
+E:\TCPServerAndClient\2020-12-14色差仪项目\PCClient\PCClient\obj\Debug\PCClient.TestFormServer.resources
+E:\TCPServerAndClient\2020-12-14色差仪项目\PCClient\PCClient\obj\Debug\PCClient.csproj.GenerateResource.Cache
+E:\TCPServerAndClient\2020-12-14色差仪项目\PCClient\PCClient\obj\Debug\PCClient.exe.manifest
+E:\TCPServerAndClient\2020-12-14色差仪项目\PCClient\PCClient\obj\Debug\PCClient.application
+E:\TCPServerAndClient\2020-12-14色差仪项目\PCClient\PCClient\obj\Debug\PCClient.MainFormJJJP.resources
+E:\TCPServerAndClient\2020-12-14色差仪项目\PCClient\PCClient\obj\Debug\PCClient.HomeForm.resources
+E:\TCPServerAndClient\2020-12-14色差仪项目\PCClient\PCClient\obj\Debug\PCClient.UIFrame.Check.Checkframe.resources
+E:\TCPServerAndClient\2020-12-14色差仪项目\PCClient\PCClient\obj\Debug\PCClient.UIFrame.Management.ManagementFrame.resources
+E:\TCPServerAndClient\2020-12-14色差仪项目\PCClient\PCClient\obj\Debug\PCClient.UIFrame.Query.QueryFrame.resources
+E:\TCPServerAndClient\2020-12-14色差仪项目\PCClient\PCClient\bin\Debug\Newtonsoft.Json.dll
+C:\PRO\PCClient105\PCClient\PCClient\bin\Debug\PCClient.exe.config
+C:\PRO\PCClient105\PCClient\PCClient\obj\Debug\PCClient.exe
+C:\PRO\PCClient105\PCClient\PCClient\obj\Debug\PCClient.pdb
+C:\PRO\PCClient105\PCClient\PCClient\bin\Debug\PCClient.exe.manifest
+C:\PRO\PCClient105\PCClient\PCClient\bin\Debug\PCClient.application
+C:\PRO\PCClient105\PCClient\PCClient\bin\Debug\PCClient.exe
+C:\PRO\PCClient105\PCClient\PCClient\bin\Debug\PCClient.pdb
+C:\PRO\PCClient105\PCClient\PCClient\bin\Debug\ColorimeterDAO.dll
+C:\PRO\PCClient105\PCClient\PCClient\bin\Debug\ColorimeterService.dll
+C:\PRO\PCClient105\PCClient\PCClient\bin\Debug\Newtonsoft.Json.dll
+C:\PRO\PCClient105\PCClient\PCClient\bin\Debug\SunnyUI.dll
+C:\PRO\PCClient105\PCClient\PCClient\bin\Debug\ColorimeterDAO.pdb
+C:\PRO\PCClient105\PCClient\PCClient\bin\Debug\ColorimeterService.pdb
+C:\PRO\PCClient105\PCClient\PCClient\obj\Debug\PCClient.csprojResolveAssemblyReference.cache
+C:\PRO\PCClient105\PCClient\PCClient\obj\Debug\PCClient.HomeForm.resources
+C:\PRO\PCClient105\PCClient\PCClient\obj\Debug\PCClient.LoginForm.resources
+C:\PRO\PCClient105\PCClient\PCClient\obj\Debug\PCClient.MainFormJJJP.resources
+C:\PRO\PCClient105\PCClient\PCClient\obj\Debug\PCClient.Properties.Resources.resources
+C:\PRO\PCClient105\PCClient\PCClient\obj\Debug\PCClient.TestFormServer.resources
+C:\PRO\PCClient105\PCClient\PCClient\obj\Debug\PCClient.UIFrame.Check.Checkframe.resources
+C:\PRO\PCClient105\PCClient\PCClient\obj\Debug\PCClient.UIFrame.Management.ManagementFrame.resources
+C:\PRO\PCClient105\PCClient\PCClient\obj\Debug\PCClient.UIFrame.Query.QueryFrame.resources
+C:\PRO\PCClient105\PCClient\PCClient\obj\Debug\PCClient.csproj.GenerateResource.Cache
+C:\PRO\PCClient105\PCClient\PCClient\obj\Debug\PCClient.exe.manifest
+C:\PRO\PCClient105\PCClient\PCClient\obj\Debug\PCClient.application
+E:\TCPServerAndClient\PCClient105 V2\PCClient\PCClient\bin\Debug\PCClient.exe.config
+E:\TCPServerAndClient\PCClient105 V2\PCClient\PCClient\bin\Debug\PCClient.exe.manifest
+E:\TCPServerAndClient\PCClient105 V2\PCClient\PCClient\bin\Debug\PCClient.application
+E:\TCPServerAndClient\PCClient105 V2\PCClient\PCClient\bin\Debug\PCClient.exe
+E:\TCPServerAndClient\PCClient105 V2\PCClient\PCClient\bin\Debug\PCClient.pdb
+E:\TCPServerAndClient\PCClient105 V2\PCClient\PCClient\bin\Debug\ColorimeterDAO.dll
+E:\TCPServerAndClient\PCClient105 V2\PCClient\PCClient\bin\Debug\ColorimeterService.dll
+E:\TCPServerAndClient\PCClient105 V2\PCClient\PCClient\bin\Debug\Newtonsoft.Json.dll
+E:\TCPServerAndClient\PCClient105 V2\PCClient\PCClient\bin\Debug\SunnyUI.dll
+E:\TCPServerAndClient\PCClient105 V2\PCClient\PCClient\bin\Debug\ColorimeterDAO.pdb
+E:\TCPServerAndClient\PCClient105 V2\PCClient\PCClient\bin\Debug\ColorimeterService.pdb
+E:\TCPServerAndClient\PCClient105 V2\PCClient\PCClient\obj\Debug\PCClient.csprojResolveAssemblyReference.cache
+E:\TCPServerAndClient\PCClient105 V2\PCClient\PCClient\obj\Debug\PCClient.HomeForm.resources
+E:\TCPServerAndClient\PCClient105 V2\PCClient\PCClient\obj\Debug\PCClient.LoginForm.resources
+E:\TCPServerAndClient\PCClient105 V2\PCClient\PCClient\obj\Debug\PCClient.Properties.Resources.resources
+E:\TCPServerAndClient\PCClient105 V2\PCClient\PCClient\obj\Debug\PCClient.TestFormServer.resources
+E:\TCPServerAndClient\PCClient105 V2\PCClient\PCClient\obj\Debug\PCClient.UIFrame.Check.Checkframe.resources
+E:\TCPServerAndClient\PCClient105 V2\PCClient\PCClient\obj\Debug\PCClient.UIFrame.Management.ManagementFrame.resources
+E:\TCPServerAndClient\PCClient105 V2\PCClient\PCClient\obj\Debug\PCClient.UIFrame.Query.QueryFrame.resources
+E:\TCPServerAndClient\PCClient105 V2\PCClient\PCClient\obj\Debug\PCClient.csproj.GenerateResource.Cache
+E:\TCPServerAndClient\PCClient105 V2\PCClient\PCClient\obj\Debug\PCClient.exe.manifest
+E:\TCPServerAndClient\PCClient105 V2\PCClient\PCClient\obj\Debug\PCClient.application
+E:\TCPServerAndClient\PCClient105 V2\PCClient\PCClient\obj\Debug\PCClient.exe
+E:\TCPServerAndClient\PCClient105 V2\PCClient\PCClient\obj\Debug\PCClient.pdb
+F:\2020-12-14色差仪项目\PCClient105 V2\PCClient105 V2\PCClient\PCClient\bin\Debug\PCClient.exe.config
+F:\2020-12-14色差仪项目\PCClient105 V2\PCClient105 V2\PCClient\PCClient\obj\Debug\PCClient.exe
+F:\2020-12-14色差仪项目\PCClient105 V2\PCClient105 V2\PCClient\PCClient\obj\Debug\PCClient.pdb
+F:\2020-12-14色差仪项目\PCClient105 V2\PCClient105 V2\PCClient\PCClient\bin\Debug\PCClient.exe.manifest
+F:\2020-12-14色差仪项目\PCClient105 V2\PCClient105 V2\PCClient\PCClient\bin\Debug\PCClient.application
+F:\2020-12-14色差仪项目\PCClient105 V2\PCClient105 V2\PCClient\PCClient\bin\Debug\PCClient.exe
+F:\2020-12-14色差仪项目\PCClient105 V2\PCClient105 V2\PCClient\PCClient\bin\Debug\PCClient.pdb
+F:\2020-12-14色差仪项目\PCClient105 V2\PCClient105 V2\PCClient\PCClient\bin\Debug\ColorimeterDAO.dll
+F:\2020-12-14色差仪项目\PCClient105 V2\PCClient105 V2\PCClient\PCClient\bin\Debug\ColorimeterService.dll
+F:\2020-12-14色差仪项目\PCClient105 V2\PCClient105 V2\PCClient\PCClient\bin\Debug\Newtonsoft.Json.dll
+F:\2020-12-14色差仪项目\PCClient105 V2\PCClient105 V2\PCClient\PCClient\bin\Debug\SunnyUI.dll
+F:\2020-12-14色差仪项目\PCClient105 V2\PCClient105 V2\PCClient\PCClient\bin\Debug\ColorimeterDAO.pdb
+F:\2020-12-14色差仪项目\PCClient105 V2\PCClient105 V2\PCClient\PCClient\bin\Debug\ColorimeterService.pdb
+F:\2020-12-14色差仪项目\PCClient105 V2\PCClient105 V2\PCClient\PCClient\obj\Debug\PCClient.csprojResolveAssemblyReference.cache
+F:\2020-12-14色差仪项目\PCClient105 V2\PCClient105 V2\PCClient\PCClient\obj\Debug\PCClient.HomeForm.resources
+F:\2020-12-14色差仪项目\PCClient105 V2\PCClient105 V2\PCClient\PCClient\obj\Debug\PCClient.LoginForm.resources
+F:\2020-12-14色差仪项目\PCClient105 V2\PCClient105 V2\PCClient\PCClient\obj\Debug\PCClient.Properties.Resources.resources
+F:\2020-12-14色差仪项目\PCClient105 V2\PCClient105 V2\PCClient\PCClient\obj\Debug\PCClient.TestFormServer.resources
+F:\2020-12-14色差仪项目\PCClient105 V2\PCClient105 V2\PCClient\PCClient\obj\Debug\PCClient.UIFrame.Check.Checkframe.resources
+F:\2020-12-14色差仪项目\PCClient105 V2\PCClient105 V2\PCClient\PCClient\obj\Debug\PCClient.UIFrame.Management.ManagementFrame.resources
+F:\2020-12-14色差仪项目\PCClient105 V2\PCClient105 V2\PCClient\PCClient\obj\Debug\PCClient.UIFrame.Query.QueryFrame.resources
+F:\2020-12-14色差仪项目\PCClient105 V2\PCClient105 V2\PCClient\PCClient\obj\Debug\PCClient.csproj.GenerateResource.Cache
+F:\2020-12-14色差仪项目\PCClient105 V2\PCClient105 V2\PCClient\PCClient\obj\Debug\PCClient.exe.manifest
+F:\2020-12-14色差仪项目\PCClient105 V2\PCClient105 V2\PCClient\PCClient\obj\Debug\PCClient.application
+F:\2020-12-14色差仪项目\PCClient108 V2.1\PCClient108 V2.1\PCClient\PCClient\bin\Debug\PCClient.exe.config
+F:\2020-12-14色差仪项目\PCClient108 V2.1\PCClient108 V2.1\PCClient\PCClient\obj\Debug\PCClient.exe
+F:\2020-12-14色差仪项目\PCClient108 V2.1\PCClient108 V2.1\PCClient\PCClient\obj\Debug\PCClient.pdb
+F:\2020-12-14色差仪项目\PCClient108 V2.1\PCClient108 V2.1\PCClient\PCClient\bin\Debug\PCClient.exe.manifest
+F:\2020-12-14色差仪项目\PCClient108 V2.1\PCClient108 V2.1\PCClient\PCClient\bin\Debug\PCClient.application
+F:\2020-12-14色差仪项目\PCClient108 V2.1\PCClient108 V2.1\PCClient\PCClient\bin\Debug\PCClient.exe
+F:\2020-12-14色差仪项目\PCClient108 V2.1\PCClient108 V2.1\PCClient\PCClient\bin\Debug\PCClient.pdb
+F:\2020-12-14色差仪项目\PCClient108 V2.1\PCClient108 V2.1\PCClient\PCClient\bin\Debug\ColorimeterDAO.dll
+F:\2020-12-14色差仪项目\PCClient108 V2.1\PCClient108 V2.1\PCClient\PCClient\bin\Debug\ColorimeterService.dll
+F:\2020-12-14色差仪项目\PCClient108 V2.1\PCClient108 V2.1\PCClient\PCClient\bin\Debug\Newtonsoft.Json.dll
+F:\2020-12-14色差仪项目\PCClient108 V2.1\PCClient108 V2.1\PCClient\PCClient\bin\Debug\SunnyUI.dll
+F:\2020-12-14色差仪项目\PCClient108 V2.1\PCClient108 V2.1\PCClient\PCClient\bin\Debug\ColorimeterDAO.pdb
+F:\2020-12-14色差仪项目\PCClient108 V2.1\PCClient108 V2.1\PCClient\PCClient\bin\Debug\ColorimeterService.pdb
+F:\2020-12-14色差仪项目\PCClient108 V2.1\PCClient108 V2.1\PCClient\PCClient\obj\Debug\PCClient.csprojResolveAssemblyReference.cache
+F:\2020-12-14色差仪项目\PCClient108 V2.1\PCClient108 V2.1\PCClient\PCClient\obj\Debug\PCClient.HomeForm.resources
+F:\2020-12-14色差仪项目\PCClient108 V2.1\PCClient108 V2.1\PCClient\PCClient\obj\Debug\PCClient.LoginForm.resources
+F:\2020-12-14色差仪项目\PCClient108 V2.1\PCClient108 V2.1\PCClient\PCClient\obj\Debug\PCClient.Properties.Resources.resources
+F:\2020-12-14色差仪项目\PCClient108 V2.1\PCClient108 V2.1\PCClient\PCClient\obj\Debug\PCClient.TestFormServer.resources
+F:\2020-12-14色差仪项目\PCClient108 V2.1\PCClient108 V2.1\PCClient\PCClient\obj\Debug\PCClient.UIFrame.Check.Checkframe.resources
+F:\2020-12-14色差仪项目\PCClient108 V2.1\PCClient108 V2.1\PCClient\PCClient\obj\Debug\PCClient.UIFrame.Management.ManagementFrame.resources
+F:\2020-12-14色差仪项目\PCClient108 V2.1\PCClient108 V2.1\PCClient\PCClient\obj\Debug\PCClient.UIFrame.Query.QueryFrame.resources
+F:\2020-12-14色差仪项目\PCClient108 V2.1\PCClient108 V2.1\PCClient\PCClient\obj\Debug\PCClient.csproj.GenerateResource.Cache
+F:\2020-12-14色差仪项目\PCClient108 V2.1\PCClient108 V2.1\PCClient\PCClient\obj\Debug\PCClient.exe.manifest
+F:\2020-12-14色差仪项目\PCClient108 V2.1\PCClient108 V2.1\PCClient\PCClient\obj\Debug\PCClient.application
+F:\2020-12-14色差仪项目\PCClient108 V2.1\PCClient108 V2.1\PCClient\PCClient\bin\Debug\PlcComm.dll
+F:\2020-12-14色差仪项目\PCClient109 V2.2\PCClient\PCClient\bin\Debug\PCClient.exe.config
+F:\2020-12-14色差仪项目\PCClient109 V2.2\PCClient\PCClient\obj\Debug\PCClient.exe
+F:\2020-12-14色差仪项目\PCClient109 V2.2\PCClient\PCClient\obj\Debug\PCClient.pdb
+F:\2020-12-14色差仪项目\PCClient109 V2.2\PCClient\PCClient\bin\Debug\PCClient.exe.manifest
+F:\2020-12-14色差仪项目\PCClient109 V2.2\PCClient\PCClient\bin\Debug\PCClient.application
+F:\2020-12-14色差仪项目\PCClient109 V2.2\PCClient\PCClient\bin\Debug\PCClient.exe
+F:\2020-12-14色差仪项目\PCClient109 V2.2\PCClient\PCClient\bin\Debug\PCClient.pdb
+F:\2020-12-14色差仪项目\PCClient109 V2.2\PCClient\PCClient\bin\Debug\ColorimeterDAO.dll
+F:\2020-12-14色差仪项目\PCClient109 V2.2\PCClient\PCClient\bin\Debug\ColorimeterService.dll
+F:\2020-12-14色差仪项目\PCClient109 V2.2\PCClient\PCClient\bin\Debug\Newtonsoft.Json.dll
+F:\2020-12-14色差仪项目\PCClient109 V2.2\PCClient\PCClient\bin\Debug\SunnyUI.dll
+F:\2020-12-14色差仪项目\PCClient109 V2.2\PCClient\PCClient\bin\Debug\PlcComm.dll
+F:\2020-12-14色差仪项目\PCClient109 V2.2\PCClient\PCClient\bin\Debug\ColorimeterDAO.pdb
+F:\2020-12-14色差仪项目\PCClient109 V2.2\PCClient\PCClient\bin\Debug\ColorimeterService.pdb
+F:\2020-12-14色差仪项目\PCClient109 V2.2\PCClient\PCClient\obj\Debug\PCClient.csprojResolveAssemblyReference.cache
+F:\2020-12-14色差仪项目\PCClient109 V2.2\PCClient\PCClient\obj\Debug\PCClient.HomeForm.resources
+F:\2020-12-14色差仪项目\PCClient109 V2.2\PCClient\PCClient\obj\Debug\PCClient.LoginForm.resources
+F:\2020-12-14色差仪项目\PCClient109 V2.2\PCClient\PCClient\obj\Debug\PCClient.Properties.Resources.resources
+F:\2020-12-14色差仪项目\PCClient109 V2.2\PCClient\PCClient\obj\Debug\PCClient.TestFormServer.resources
+F:\2020-12-14色差仪项目\PCClient109 V2.2\PCClient\PCClient\obj\Debug\PCClient.UIFrame.Check.Checkframe.resources
+F:\2020-12-14色差仪项目\PCClient109 V2.2\PCClient\PCClient\obj\Debug\PCClient.UIFrame.Management.ManagementFrame.resources
+F:\2020-12-14色差仪项目\PCClient109 V2.2\PCClient\PCClient\obj\Debug\PCClient.UIFrame.Query.QueryFrame.resources
+F:\2020-12-14色差仪项目\PCClient109 V2.2\PCClient\PCClient\obj\Debug\PCClient.csproj.GenerateResource.Cache
+F:\2020-12-14色差仪项目\PCClient109 V2.2\PCClient\PCClient\obj\Debug\PCClient.exe.manifest
+F:\2020-12-14色差仪项目\PCClient109 V2.2\PCClient\PCClient\obj\Debug\PCClient.application
+F:\2020-12-14色差仪项目\PCClient110 V2.2-仅通信+解析\PCClient\PCClient\bin\Debug\PCClient.exe.config
+F:\2020-12-14色差仪项目\PCClient110 V2.2-仅通信+解析\PCClient\PCClient\obj\Debug\PCClient.exe
+F:\2020-12-14色差仪项目\PCClient110 V2.2-仅通信+解析\PCClient\PCClient\obj\Debug\PCClient.pdb
+F:\2020-12-14色差仪项目\PCClient1010 V2.2 - 仅通信+解析\PCClient\PCClient\bin\Debug\PCClient.exe.config
+F:\2020-12-14色差仪项目\PCClient1010 V2.2 - 仅通信+解析\PCClient\PCClient\bin\Debug\PCClient.exe.manifest
+F:\2020-12-14色差仪项目\PCClient1010 V2.2 - 仅通信+解析\PCClient\PCClient\bin\Debug\PCClient.application
+F:\2020-12-14色差仪项目\PCClient1010 V2.2 - 仅通信+解析\PCClient\PCClient\bin\Debug\PCClient.exe
+F:\2020-12-14色差仪项目\PCClient1010 V2.2 - 仅通信+解析\PCClient\PCClient\bin\Debug\PCClient.pdb
+F:\2020-12-14色差仪项目\PCClient1010 V2.2 - 仅通信+解析\PCClient\PCClient\bin\Debug\ColorimeterDAO.dll
+F:\2020-12-14色差仪项目\PCClient1010 V2.2 - 仅通信+解析\PCClient\PCClient\bin\Debug\ColorimeterService.dll
+F:\2020-12-14色差仪项目\PCClient1010 V2.2 - 仅通信+解析\PCClient\PCClient\bin\Debug\Newtonsoft.Json.dll
+F:\2020-12-14色差仪项目\PCClient1010 V2.2 - 仅通信+解析\PCClient\PCClient\bin\Debug\SunnyUI.dll
+F:\2020-12-14色差仪项目\PCClient1010 V2.2 - 仅通信+解析\PCClient\PCClient\bin\Debug\PlcComm.dll
+F:\2020-12-14色差仪项目\PCClient1010 V2.2 - 仅通信+解析\PCClient\PCClient\bin\Debug\ColorimeterDAO.pdb
+F:\2020-12-14色差仪项目\PCClient1010 V2.2 - 仅通信+解析\PCClient\PCClient\bin\Debug\ColorimeterService.pdb
+F:\2020-12-14色差仪项目\PCClient1010 V2.2 - 仅通信+解析\PCClient\PCClient\obj\Debug\PCClient.csprojResolveAssemblyReference.cache
+F:\2020-12-14色差仪项目\PCClient1010 V2.2 - 仅通信+解析\PCClient\PCClient\obj\Debug\PCClient.HomeForm.resources
+F:\2020-12-14色差仪项目\PCClient1010 V2.2 - 仅通信+解析\PCClient\PCClient\obj\Debug\PCClient.LoginForm.resources
+F:\2020-12-14色差仪项目\PCClient1010 V2.2 - 仅通信+解析\PCClient\PCClient\obj\Debug\PCClient.Properties.Resources.resources
+F:\2020-12-14色差仪项目\PCClient1010 V2.2 - 仅通信+解析\PCClient\PCClient\obj\Debug\PCClient.TestFormServer.resources
+F:\2020-12-14色差仪项目\PCClient1010 V2.2 - 仅通信+解析\PCClient\PCClient\obj\Debug\PCClient.UIFrame.Check.Checkframe.resources
+F:\2020-12-14色差仪项目\PCClient1010 V2.2 - 仅通信+解析\PCClient\PCClient\obj\Debug\PCClient.UIFrame.Management.ManagementFrame.resources
+F:\2020-12-14色差仪项目\PCClient1010 V2.2 - 仅通信+解析\PCClient\PCClient\obj\Debug\PCClient.UIFrame.Query.QueryFrame.resources
+F:\2020-12-14色差仪项目\PCClient1010 V2.2 - 仅通信+解析\PCClient\PCClient\obj\Debug\PCClient.csproj.GenerateResource.Cache
+F:\2020-12-14色差仪项目\PCClient1010 V2.2 - 仅通信+解析\PCClient\PCClient\obj\Debug\PCClient.exe.manifest
+F:\2020-12-14色差仪项目\PCClient1010 V2.2 - 仅通信+解析\PCClient\PCClient\obj\Debug\PCClient.application
+F:\2020-12-14色差仪项目\PCClient1010 V2.2 - 仅通信+解析\PCClient\PCClient\obj\Debug\PCClient.exe
+F:\2020-12-14色差仪项目\PCClient1010 V2.2 - 仅通信+解析\PCClient\PCClient\obj\Debug\PCClient.pdb
+C:\test\PCClient1010 V2.3 - 仅通信+解析+PLC\PCClient1010 V2.3 - 仅通信+解析+PLC\PCClient\PCClient\bin\Debug\PCClient.exe.config
+C:\test\PCClient1010 V2.3 - 仅通信+解析+PLC\PCClient1010 V2.3 - 仅通信+解析+PLC\PCClient\PCClient\obj\Debug\PCClient.exe
+C:\test\PCClient1010 V2.3 - 仅通信+解析+PLC\PCClient1010 V2.3 - 仅通信+解析+PLC\PCClient\PCClient\obj\Debug\PCClient.pdb
+C:\test\PCClient1010 V2.3 - 仅通信+解析+PLC\PCClient1010 V2.3 - 仅通信+解析+PLC\PCClient\PCClient\bin\Debug\PCClient.exe.manifest
+C:\test\PCClient1010 V2.3 - 仅通信+解析+PLC\PCClient1010 V2.3 - 仅通信+解析+PLC\PCClient\PCClient\bin\Debug\PCClient.application
+C:\test\PCClient1010 V2.3 - 仅通信+解析+PLC\PCClient1010 V2.3 - 仅通信+解析+PLC\PCClient\PCClient\bin\Debug\PCClient.exe
+C:\test\PCClient1010 V2.3 - 仅通信+解析+PLC\PCClient1010 V2.3 - 仅通信+解析+PLC\PCClient\PCClient\bin\Debug\PCClient.pdb
+C:\test\PCClient1010 V2.3 - 仅通信+解析+PLC\PCClient1010 V2.3 - 仅通信+解析+PLC\PCClient\PCClient\bin\Debug\ColorimeterDAO.dll
+C:\test\PCClient1010 V2.3 - 仅通信+解析+PLC\PCClient1010 V2.3 - 仅通信+解析+PLC\PCClient\PCClient\bin\Debug\ColorimeterService.dll
+C:\test\PCClient1010 V2.3 - 仅通信+解析+PLC\PCClient1010 V2.3 - 仅通信+解析+PLC\PCClient\PCClient\bin\Debug\SunnyUI.dll
+C:\test\PCClient1010 V2.3 - 仅通信+解析+PLC\PCClient1010 V2.3 - 仅通信+解析+PLC\PCClient\PCClient\bin\Debug\PlcComm.dll
+C:\test\PCClient1010 V2.3 - 仅通信+解析+PLC\PCClient1010 V2.3 - 仅通信+解析+PLC\PCClient\PCClient\bin\Debug\ColorimeterDAO.pdb
+C:\test\PCClient1010 V2.3 - 仅通信+解析+PLC\PCClient1010 V2.3 - 仅通信+解析+PLC\PCClient\PCClient\bin\Debug\ColorimeterService.pdb
+C:\test\PCClient1010 V2.3 - 仅通信+解析+PLC\PCClient1010 V2.3 - 仅通信+解析+PLC\PCClient\PCClient\obj\Debug\PCClient.HomeForm.resources
+C:\test\PCClient1010 V2.3 - 仅通信+解析+PLC\PCClient1010 V2.3 - 仅通信+解析+PLC\PCClient\PCClient\obj\Debug\PCClient.LoginForm.resources
+C:\test\PCClient1010 V2.3 - 仅通信+解析+PLC\PCClient1010 V2.3 - 仅通信+解析+PLC\PCClient\PCClient\obj\Debug\PCClient.Properties.Resources.resources
+C:\test\PCClient1010 V2.3 - 仅通信+解析+PLC\PCClient1010 V2.3 - 仅通信+解析+PLC\PCClient\PCClient\obj\Debug\PCClient.TestFormServer.resources
+C:\test\PCClient1010 V2.3 - 仅通信+解析+PLC\PCClient1010 V2.3 - 仅通信+解析+PLC\PCClient\PCClient\obj\Debug\PCClient.UIFrame.Check.Checkframe.resources
+C:\test\PCClient1010 V2.3 - 仅通信+解析+PLC\PCClient1010 V2.3 - 仅通信+解析+PLC\PCClient\PCClient\obj\Debug\PCClient.UIFrame.Management.ManagementFrame.resources
+C:\test\PCClient1010 V2.3 - 仅通信+解析+PLC\PCClient1010 V2.3 - 仅通信+解析+PLC\PCClient\PCClient\obj\Debug\PCClient.UIFrame.Query.QueryFrame.resources
+C:\test\PCClient1010 V2.3 - 仅通信+解析+PLC\PCClient1010 V2.3 - 仅通信+解析+PLC\PCClient\PCClient\obj\Debug\PCClient.csproj.GenerateResource.Cache
+C:\test\PCClient1010 V2.3 - 仅通信+解析+PLC\PCClient1010 V2.3 - 仅通信+解析+PLC\PCClient\PCClient\obj\Debug\PCClient.exe.manifest
+C:\test\PCClient1010 V2.3 - 仅通信+解析+PLC\PCClient1010 V2.3 - 仅通信+解析+PLC\PCClient\PCClient\obj\Debug\PCClient.application
+C:\test\PCClient1010 V2.3 - 仅通信+解析+PLC\PCClient1010 V2.3 - 仅通信+解析+PLC\PCClient\PCClient\obj\Debug\PCClient.csprojResolveAssemblyReference.cache
+C:\test\PCClient1010 V2.3 - 仅通信+解析+PLC_合\PCClient1010 V2.3 - 仅通信+解析+PLC\PCClient\PCClient\bin\Debug\PCClient.exe.config
+C:\test\PCClient1010 V2.3 - 仅通信+解析+PLC_合\PCClient1010 V2.3 - 仅通信+解析+PLC\PCClient\PCClient\obj\Debug\PCClient.exe
+C:\test\PCClient1010 V2.3 - 仅通信+解析+PLC_合\PCClient1010 V2.3 - 仅通信+解析+PLC\PCClient\PCClient\obj\Debug\PCClient.pdb
+E:\TCPServerAndClient\PCClient1010 V2.3 - 仅通信+解析+PLC_合2\PCClient1010 V2.3 - 仅通信+解析+PLC_合\PCClient1010 V2.3 - 仅通信+解析+PLC\PCClient\PCClient\bin\Debug\PCClient.exe.config
+E:\TCPServerAndClient\PCClient1010 V2.3 - 仅通信+解析+PLC_合2\PCClient1010 V2.3 - 仅通信+解析+PLC_合\PCClient1010 V2.3 - 仅通信+解析+PLC\PCClient\PCClient\obj\Debug\PCClient.exe
+E:\TCPServerAndClient\PCClient1010 V2.3 - 仅通信+解析+PLC_合2\PCClient1010 V2.3 - 仅通信+解析+PLC_合\PCClient1010 V2.3 - 仅通信+解析+PLC\PCClient\PCClient\obj\Debug\PCClient.pdb
+E:\TCPServerAndClient\PCClient1010 V2.3 - 仅通信+解析+PLC_合2\PCClient1010 V2.3 - 仅通信+解析+PLC_合\PCClient1010 V2.3 - 仅通信+解析+PLC\PCClient\PCClient\bin\Debug\PCClient.exe.manifest
+E:\TCPServerAndClient\PCClient1010 V2.3 - 仅通信+解析+PLC_合2\PCClient1010 V2.3 - 仅通信+解析+PLC_合\PCClient1010 V2.3 - 仅通信+解析+PLC\PCClient\PCClient\bin\Debug\PCClient.application
+E:\TCPServerAndClient\PCClient1010 V2.3 - 仅通信+解析+PLC_合2\PCClient1010 V2.3 - 仅通信+解析+PLC_合\PCClient1010 V2.3 - 仅通信+解析+PLC\PCClient\PCClient\bin\Debug\PCClient.exe
+E:\TCPServerAndClient\PCClient1010 V2.3 - 仅通信+解析+PLC_合2\PCClient1010 V2.3 - 仅通信+解析+PLC_合\PCClient1010 V2.3 - 仅通信+解析+PLC\PCClient\PCClient\bin\Debug\PCClient.pdb
+E:\TCPServerAndClient\PCClient1010 V2.3 - 仅通信+解析+PLC_合2\PCClient1010 V2.3 - 仅通信+解析+PLC_合\PCClient1010 V2.3 - 仅通信+解析+PLC\PCClient\PCClient\bin\Debug\ColorimeterDAO.dll
+E:\TCPServerAndClient\PCClient1010 V2.3 - 仅通信+解析+PLC_合2\PCClient1010 V2.3 - 仅通信+解析+PLC_合\PCClient1010 V2.3 - 仅通信+解析+PLC\PCClient\PCClient\bin\Debug\ColorimeterService.dll
+E:\TCPServerAndClient\PCClient1010 V2.3 - 仅通信+解析+PLC_合2\PCClient1010 V2.3 - 仅通信+解析+PLC_合\PCClient1010 V2.3 - 仅通信+解析+PLC\PCClient\PCClient\bin\Debug\Newtonsoft.Json.dll
+E:\TCPServerAndClient\PCClient1010 V2.3 - 仅通信+解析+PLC_合2\PCClient1010 V2.3 - 仅通信+解析+PLC_合\PCClient1010 V2.3 - 仅通信+解析+PLC\PCClient\PCClient\bin\Debug\SunnyUI.dll
+E:\TCPServerAndClient\PCClient1010 V2.3 - 仅通信+解析+PLC_合2\PCClient1010 V2.3 - 仅通信+解析+PLC_合\PCClient1010 V2.3 - 仅通信+解析+PLC\PCClient\PCClient\bin\Debug\PlcComm.dll
+E:\TCPServerAndClient\PCClient1010 V2.3 - 仅通信+解析+PLC_合2\PCClient1010 V2.3 - 仅通信+解析+PLC_合\PCClient1010 V2.3 - 仅通信+解析+PLC\PCClient\PCClient\bin\Debug\ColorimeterDAO.pdb
+E:\TCPServerAndClient\PCClient1010 V2.3 - 仅通信+解析+PLC_合2\PCClient1010 V2.3 - 仅通信+解析+PLC_合\PCClient1010 V2.3 - 仅通信+解析+PLC\PCClient\PCClient\bin\Debug\ColorimeterService.pdb
+E:\TCPServerAndClient\PCClient1010 V2.3 - 仅通信+解析+PLC_合2\PCClient1010 V2.3 - 仅通信+解析+PLC_合\PCClient1010 V2.3 - 仅通信+解析+PLC\PCClient\PCClient\obj\Debug\PCClient.csprojResolveAssemblyReference.cache
+E:\TCPServerAndClient\PCClient1010 V2.3 - 仅通信+解析+PLC_合2\PCClient1010 V2.3 - 仅通信+解析+PLC_合\PCClient1010 V2.3 - 仅通信+解析+PLC\PCClient\PCClient\obj\Debug\PCClient.HomeForm.resources
+E:\TCPServerAndClient\PCClient1010 V2.3 - 仅通信+解析+PLC_合2\PCClient1010 V2.3 - 仅通信+解析+PLC_合\PCClient1010 V2.3 - 仅通信+解析+PLC\PCClient\PCClient\obj\Debug\PCClient.LoginForm.resources
+E:\TCPServerAndClient\PCClient1010 V2.3 - 仅通信+解析+PLC_合2\PCClient1010 V2.3 - 仅通信+解析+PLC_合\PCClient1010 V2.3 - 仅通信+解析+PLC\PCClient\PCClient\obj\Debug\PCClient.Properties.Resources.resources
+E:\TCPServerAndClient\PCClient1010 V2.3 - 仅通信+解析+PLC_合2\PCClient1010 V2.3 - 仅通信+解析+PLC_合\PCClient1010 V2.3 - 仅通信+解析+PLC\PCClient\PCClient\obj\Debug\PCClient.TestFormServer.resources
+E:\TCPServerAndClient\PCClient1010 V2.3 - 仅通信+解析+PLC_合2\PCClient1010 V2.3 - 仅通信+解析+PLC_合\PCClient1010 V2.3 - 仅通信+解析+PLC\PCClient\PCClient\obj\Debug\PCClient.UIFrame.Check.Checkframe.resources
+E:\TCPServerAndClient\PCClient1010 V2.3 - 仅通信+解析+PLC_合2\PCClient1010 V2.3 - 仅通信+解析+PLC_合\PCClient1010 V2.3 - 仅通信+解析+PLC\PCClient\PCClient\obj\Debug\PCClient.UIFrame.Management.ManagementFrame.resources
+E:\TCPServerAndClient\PCClient1010 V2.3 - 仅通信+解析+PLC_合2\PCClient1010 V2.3 - 仅通信+解析+PLC_合\PCClient1010 V2.3 - 仅通信+解析+PLC\PCClient\PCClient\obj\Debug\PCClient.UIFrame.Query.QueryFrame.resources
+E:\TCPServerAndClient\PCClient1010 V2.3 - 仅通信+解析+PLC_合2\PCClient1010 V2.3 - 仅通信+解析+PLC_合\PCClient1010 V2.3 - 仅通信+解析+PLC\PCClient\PCClient\obj\Debug\PCClient.csproj.GenerateResource.Cache
+E:\TCPServerAndClient\PCClient1010 V2.3 - 仅通信+解析+PLC_合2\PCClient1010 V2.3 - 仅通信+解析+PLC_合\PCClient1010 V2.3 - 仅通信+解析+PLC\PCClient\PCClient\obj\Debug\PCClient.exe.manifest
+E:\TCPServerAndClient\PCClient1010 V2.3 - 仅通信+解析+PLC_合2\PCClient1010 V2.3 - 仅通信+解析+PLC_合\PCClient1010 V2.3 - 仅通信+解析+PLC\PCClient\PCClient\obj\Debug\PCClient.application
+F:\2020-12-14色差仪项目\PCClient1011 V2.4 - 仅通信+解析+PLC+参数\PCClient1011 V2.4 - 仅通信+解析+PLC+参数\PCClient\PCClient\bin\Debug\PCClient.exe.config
+F:\2020-12-14色差仪项目\PCClient1011 V2.4 - 仅通信+解析+PLC+参数\PCClient1011 V2.4 - 仅通信+解析+PLC+参数\PCClient\PCClient\obj\Debug\PCClient.exe
+F:\2020-12-14色差仪项目\PCClient1011 V2.4 - 仅通信+解析+PLC+参数\PCClient1011 V2.4 - 仅通信+解析+PLC+参数\PCClient\PCClient\obj\Debug\PCClient.pdb
+F:\2020-12-14色差仪项目\PCClient1011 V2.4 - 仅通信+解析+PLC+参数\PCClient1011 V2.4 - 仅通信+解析+PLC+参数\PCClient\PCClient\bin\Debug\PCClient.exe.manifest
+F:\2020-12-14色差仪项目\PCClient1011 V2.4 - 仅通信+解析+PLC+参数\PCClient1011 V2.4 - 仅通信+解析+PLC+参数\PCClient\PCClient\bin\Debug\PCClient.application
+F:\2020-12-14色差仪项目\PCClient1011 V2.4 - 仅通信+解析+PLC+参数\PCClient1011 V2.4 - 仅通信+解析+PLC+参数\PCClient\PCClient\bin\Debug\PCClient.exe
+F:\2020-12-14色差仪项目\PCClient1011 V2.4 - 仅通信+解析+PLC+参数\PCClient1011 V2.4 - 仅通信+解析+PLC+参数\PCClient\PCClient\bin\Debug\PCClient.pdb
+F:\2020-12-14色差仪项目\PCClient1011 V2.4 - 仅通信+解析+PLC+参数\PCClient1011 V2.4 - 仅通信+解析+PLC+参数\PCClient\PCClient\bin\Debug\ColorimeterDAO.dll
+F:\2020-12-14色差仪项目\PCClient1011 V2.4 - 仅通信+解析+PLC+参数\PCClient1011 V2.4 - 仅通信+解析+PLC+参数\PCClient\PCClient\bin\Debug\ColorimeterService.dll
+F:\2020-12-14色差仪项目\PCClient1011 V2.4 - 仅通信+解析+PLC+参数\PCClient1011 V2.4 - 仅通信+解析+PLC+参数\PCClient\PCClient\bin\Debug\Newtonsoft.Json.dll
+F:\2020-12-14色差仪项目\PCClient1011 V2.4 - 仅通信+解析+PLC+参数\PCClient1011 V2.4 - 仅通信+解析+PLC+参数\PCClient\PCClient\bin\Debug\SunnyUI.dll
+F:\2020-12-14色差仪项目\PCClient1011 V2.4 - 仅通信+解析+PLC+参数\PCClient1011 V2.4 - 仅通信+解析+PLC+参数\PCClient\PCClient\bin\Debug\PlcComm.dll
+F:\2020-12-14色差仪项目\PCClient1011 V2.4 - 仅通信+解析+PLC+参数\PCClient1011 V2.4 - 仅通信+解析+PLC+参数\PCClient\PCClient\bin\Debug\ColorimeterDAO.pdb
+F:\2020-12-14色差仪项目\PCClient1011 V2.4 - 仅通信+解析+PLC+参数\PCClient1011 V2.4 - 仅通信+解析+PLC+参数\PCClient\PCClient\bin\Debug\ColorimeterService.pdb
+F:\2020-12-14色差仪项目\PCClient1011 V2.4 - 仅通信+解析+PLC+参数\PCClient1011 V2.4 - 仅通信+解析+PLC+参数\PCClient\PCClient\obj\Debug\PCClient.csprojResolveAssemblyReference.cache
+F:\2020-12-14色差仪项目\PCClient1011 V2.4 - 仅通信+解析+PLC+参数\PCClient1011 V2.4 - 仅通信+解析+PLC+参数\PCClient\PCClient\obj\Debug\PCClient.HomeForm.resources
+F:\2020-12-14色差仪项目\PCClient1011 V2.4 - 仅通信+解析+PLC+参数\PCClient1011 V2.4 - 仅通信+解析+PLC+参数\PCClient\PCClient\obj\Debug\PCClient.LoginForm.resources
+F:\2020-12-14色差仪项目\PCClient1011 V2.4 - 仅通信+解析+PLC+参数\PCClient1011 V2.4 - 仅通信+解析+PLC+参数\PCClient\PCClient\obj\Debug\PCClient.Properties.Resources.resources
+F:\2020-12-14色差仪项目\PCClient1011 V2.4 - 仅通信+解析+PLC+参数\PCClient1011 V2.4 - 仅通信+解析+PLC+参数\PCClient\PCClient\obj\Debug\PCClient.TestFormServer.resources
+F:\2020-12-14色差仪项目\PCClient1011 V2.4 - 仅通信+解析+PLC+参数\PCClient1011 V2.4 - 仅通信+解析+PLC+参数\PCClient\PCClient\obj\Debug\PCClient.UIFrame.Check.Checkframe.resources
+F:\2020-12-14色差仪项目\PCClient1011 V2.4 - 仅通信+解析+PLC+参数\PCClient1011 V2.4 - 仅通信+解析+PLC+参数\PCClient\PCClient\obj\Debug\PCClient.UIFrame.Management.ManagementFrame.resources
+F:\2020-12-14色差仪项目\PCClient1011 V2.4 - 仅通信+解析+PLC+参数\PCClient1011 V2.4 - 仅通信+解析+PLC+参数\PCClient\PCClient\obj\Debug\PCClient.UIFrame.Query.QueryFrame.resources
+F:\2020-12-14色差仪项目\PCClient1011 V2.4 - 仅通信+解析+PLC+参数\PCClient1011 V2.4 - 仅通信+解析+PLC+参数\PCClient\PCClient\obj\Debug\PCClient.csproj.GenerateResource.Cache
+F:\2020-12-14色差仪项目\PCClient1011 V2.4 - 仅通信+解析+PLC+参数\PCClient1011 V2.4 - 仅通信+解析+PLC+参数\PCClient\PCClient\obj\Debug\PCClient.exe.manifest
+F:\2020-12-14色差仪项目\PCClient1011 V2.4 - 仅通信+解析+PLC+参数\PCClient1011 V2.4 - 仅通信+解析+PLC+参数\PCClient\PCClient\obj\Debug\PCClient.application
+C:\test\PCClient1011 V2.4 - 仅通信+解析+PLC+参数\PCClient1011 V2.4 - 仅通信+解析+PLC+参数\PCClient1011 V2.4 - 仅通信+解析+PLC+参数\PCClient\PCClient\bin\Debug\PCClient.exe.config
+C:\test\PCClient1011 V2.4 - 仅通信+解析+PLC+参数\PCClient1011 V2.4 - 仅通信+解析+PLC+参数\PCClient1011 V2.4 - 仅通信+解析+PLC+参数\PCClient\PCClient\obj\Debug\PCClient.exe
+C:\test\PCClient1011 V2.4 - 仅通信+解析+PLC+参数\PCClient1011 V2.4 - 仅通信+解析+PLC+参数\PCClient1011 V2.4 - 仅通信+解析+PLC+参数\PCClient\PCClient\obj\Debug\PCClient.pdb
+C:\test\PCClient1011 V2.4 - 仅通信+解析+PLC+参数\PCClient1011 V2.4 - 仅通信+解析+PLC+参数\PCClient1011 V2.4 - 仅通信+解析+PLC+参数\PCClient\PCClient\bin\Debug\PCClient.exe.manifest
+C:\test\PCClient1011 V2.4 - 仅通信+解析+PLC+参数\PCClient1011 V2.4 - 仅通信+解析+PLC+参数\PCClient1011 V2.4 - 仅通信+解析+PLC+参数\PCClient\PCClient\bin\Debug\PCClient.application
+C:\test\PCClient1011 V2.4 - 仅通信+解析+PLC+参数\PCClient1011 V2.4 - 仅通信+解析+PLC+参数\PCClient1011 V2.4 - 仅通信+解析+PLC+参数\PCClient\PCClient\bin\Debug\PCClient.exe
+C:\test\PCClient1011 V2.4 - 仅通信+解析+PLC+参数\PCClient1011 V2.4 - 仅通信+解析+PLC+参数\PCClient1011 V2.4 - 仅通信+解析+PLC+参数\PCClient\PCClient\bin\Debug\PCClient.pdb
+C:\test\PCClient1011 V2.4 - 仅通信+解析+PLC+参数\PCClient1011 V2.4 - 仅通信+解析+PLC+参数\PCClient1011 V2.4 - 仅通信+解析+PLC+参数\PCClient\PCClient\bin\Debug\ColorimeterDAO.dll
+C:\test\PCClient1011 V2.4 - 仅通信+解析+PLC+参数\PCClient1011 V2.4 - 仅通信+解析+PLC+参数\PCClient1011 V2.4 - 仅通信+解析+PLC+参数\PCClient\PCClient\bin\Debug\ColorimeterService.dll
+C:\test\PCClient1011 V2.4 - 仅通信+解析+PLC+参数\PCClient1011 V2.4 - 仅通信+解析+PLC+参数\PCClient1011 V2.4 - 仅通信+解析+PLC+参数\PCClient\PCClient\bin\Debug\SunnyUI.dll
+C:\test\PCClient1011 V2.4 - 仅通信+解析+PLC+参数\PCClient1011 V2.4 - 仅通信+解析+PLC+参数\PCClient1011 V2.4 - 仅通信+解析+PLC+参数\PCClient\PCClient\bin\Debug\PlcComm.dll
+C:\test\PCClient1011 V2.4 - 仅通信+解析+PLC+参数\PCClient1011 V2.4 - 仅通信+解析+PLC+参数\PCClient1011 V2.4 - 仅通信+解析+PLC+参数\PCClient\PCClient\bin\Debug\ColorimeterDAO.pdb
+C:\test\PCClient1011 V2.4 - 仅通信+解析+PLC+参数\PCClient1011 V2.4 - 仅通信+解析+PLC+参数\PCClient1011 V2.4 - 仅通信+解析+PLC+参数\PCClient\PCClient\bin\Debug\ColorimeterService.pdb
+C:\test\PCClient1011 V2.4 - 仅通信+解析+PLC+参数\PCClient1011 V2.4 - 仅通信+解析+PLC+参数\PCClient1011 V2.4 - 仅通信+解析+PLC+参数\PCClient\PCClient\obj\Debug\PCClient.csprojResolveAssemblyReference.cache
+C:\test\PCClient1011 V2.4 - 仅通信+解析+PLC+参数\PCClient1011 V2.4 - 仅通信+解析+PLC+参数\PCClient1011 V2.4 - 仅通信+解析+PLC+参数\PCClient\PCClient\obj\Debug\PCClient.HomeForm.resources
+C:\test\PCClient1011 V2.4 - 仅通信+解析+PLC+参数\PCClient1011 V2.4 - 仅通信+解析+PLC+参数\PCClient1011 V2.4 - 仅通信+解析+PLC+参数\PCClient\PCClient\obj\Debug\PCClient.LoginForm.resources
+C:\test\PCClient1011 V2.4 - 仅通信+解析+PLC+参数\PCClient1011 V2.4 - 仅通信+解析+PLC+参数\PCClient1011 V2.4 - 仅通信+解析+PLC+参数\PCClient\PCClient\obj\Debug\PCClient.Properties.Resources.resources
+C:\test\PCClient1011 V2.4 - 仅通信+解析+PLC+参数\PCClient1011 V2.4 - 仅通信+解析+PLC+参数\PCClient1011 V2.4 - 仅通信+解析+PLC+参数\PCClient\PCClient\obj\Debug\PCClient.TestFormServer.resources
+C:\test\PCClient1011 V2.4 - 仅通信+解析+PLC+参数\PCClient1011 V2.4 - 仅通信+解析+PLC+参数\PCClient1011 V2.4 - 仅通信+解析+PLC+参数\PCClient\PCClient\obj\Debug\PCClient.UIFrame.Check.Checkframe.resources
+C:\test\PCClient1011 V2.4 - 仅通信+解析+PLC+参数\PCClient1011 V2.4 - 仅通信+解析+PLC+参数\PCClient1011 V2.4 - 仅通信+解析+PLC+参数\PCClient\PCClient\obj\Debug\PCClient.UIFrame.Management.ManagementFrame.resources
+C:\test\PCClient1011 V2.4 - 仅通信+解析+PLC+参数\PCClient1011 V2.4 - 仅通信+解析+PLC+参数\PCClient1011 V2.4 - 仅通信+解析+PLC+参数\PCClient\PCClient\obj\Debug\PCClient.UIFrame.Query.QueryFrame.resources
+C:\test\PCClient1011 V2.4 - 仅通信+解析+PLC+参数\PCClient1011 V2.4 - 仅通信+解析+PLC+参数\PCClient1011 V2.4 - 仅通信+解析+PLC+参数\PCClient\PCClient\obj\Debug\PCClient.csproj.GenerateResource.Cache
+C:\test\PCClient1011 V2.4 - 仅通信+解析+PLC+参数\PCClient1011 V2.4 - 仅通信+解析+PLC+参数\PCClient1011 V2.4 - 仅通信+解析+PLC+参数\PCClient\PCClient\obj\Debug\PCClient.exe.manifest
+C:\test\PCClient1011 V2.4 - 仅通信+解析+PLC+参数\PCClient1011 V2.4 - 仅通信+解析+PLC+参数\PCClient1011 V2.4 - 仅通信+解析+PLC+参数\PCClient\PCClient\obj\Debug\PCClient.application
+F:\色差仪项目\PCClient1011 V2.4 - 仅通信+解析+PLC+参数\PCClient\PCClient\bin\Debug\PCClient.exe.config
+F:\色差仪项目\PCClient1011 V2.4 - 仅通信+解析+PLC+参数\PCClient\PCClient\obj\Debug\PCClient.exe
+F:\色差仪项目\PCClient1011 V2.4 - 仅通信+解析+PLC+参数\PCClient\PCClient\obj\Debug\PCClient.pdb
+F:\色差仪项目\PCClient1011 V2.4 - 仅通信+解析+PLC+参数\PCClient\PCClient\bin\Debug\PCClient.exe.manifest
+F:\色差仪项目\PCClient1011 V2.4 - 仅通信+解析+PLC+参数\PCClient\PCClient\bin\Debug\PCClient.application
+F:\色差仪项目\PCClient1011 V2.4 - 仅通信+解析+PLC+参数\PCClient\PCClient\bin\Debug\PCClient.exe
+F:\色差仪项目\PCClient1011 V2.4 - 仅通信+解析+PLC+参数\PCClient\PCClient\bin\Debug\PCClient.pdb
+F:\色差仪项目\PCClient1011 V2.4 - 仅通信+解析+PLC+参数\PCClient\PCClient\bin\Debug\ColorimeterDAO.dll
+F:\色差仪项目\PCClient1011 V2.4 - 仅通信+解析+PLC+参数\PCClient\PCClient\bin\Debug\ColorimeterService.dll
+F:\色差仪项目\PCClient1011 V2.4 - 仅通信+解析+PLC+参数\PCClient\PCClient\bin\Debug\Newtonsoft.Json.dll
+F:\色差仪项目\PCClient1011 V2.4 - 仅通信+解析+PLC+参数\PCClient\PCClient\bin\Debug\SunnyUI.dll
+F:\色差仪项目\PCClient1011 V2.4 - 仅通信+解析+PLC+参数\PCClient\PCClient\bin\Debug\PlcComm.dll
+F:\色差仪项目\PCClient1011 V2.4 - 仅通信+解析+PLC+参数\PCClient\PCClient\bin\Debug\ColorimeterDAO.pdb
+F:\色差仪项目\PCClient1011 V2.4 - 仅通信+解析+PLC+参数\PCClient\PCClient\bin\Debug\ColorimeterService.pdb
+F:\色差仪项目\PCClient1011 V2.4 - 仅通信+解析+PLC+参数\PCClient\PCClient\obj\Debug\PCClient.HomeForm.resources
+F:\色差仪项目\PCClient1011 V2.4 - 仅通信+解析+PLC+参数\PCClient\PCClient\obj\Debug\PCClient.LoginForm.resources
+F:\色差仪项目\PCClient1011 V2.4 - 仅通信+解析+PLC+参数\PCClient\PCClient\obj\Debug\PCClient.Properties.Resources.resources
+F:\色差仪项目\PCClient1011 V2.4 - 仅通信+解析+PLC+参数\PCClient\PCClient\obj\Debug\PCClient.TestFormServer.resources
+F:\色差仪项目\PCClient1011 V2.4 - 仅通信+解析+PLC+参数\PCClient\PCClient\obj\Debug\PCClient.UIFrame.Check.Checkframe.resources
+F:\色差仪项目\PCClient1011 V2.4 - 仅通信+解析+PLC+参数\PCClient\PCClient\obj\Debug\PCClient.UIFrame.Management.ManagementFrame.resources
+F:\色差仪项目\PCClient1011 V2.4 - 仅通信+解析+PLC+参数\PCClient\PCClient\obj\Debug\PCClient.UIFrame.Query.QueryFrame.resources
+F:\色差仪项目\PCClient1011 V2.4 - 仅通信+解析+PLC+参数\PCClient\PCClient\obj\Debug\PCClient.csproj.GenerateResource.Cache
+F:\色差仪项目\PCClient1011 V2.4 - 仅通信+解析+PLC+参数\PCClient\PCClient\obj\Debug\PCClient.exe.manifest
+F:\色差仪项目\PCClient1011 V2.4 - 仅通信+解析+PLC+参数\PCClient\PCClient\obj\Debug\PCClient.application
+F:\色差仪项目\PCClient1011 V2.4 - 仅通信+解析+PLC+参数\PCClient\PCClient\obj\Debug\PCClient.csprojResolveAssemblyReference.cache
+C:\test\PCClient1012 V2.4 - 仅通信+解析+PLC+参数+验证+画图\PCClient1011 V2.4 - 仅通信+解析+PLC+参数\PCClient\PCClient\obj\Debug\PCClient.csprojResolveAssemblyReference.cache
+C:\test\PCClient1012 V2.4 - 仅通信+解析+PLC+参数+验证+画图\PCClient1011 V2.4 - 仅通信+解析+PLC+参数\PCClient\PCClient\obj\Debug\PCClient.HomeForm.resources
+C:\test\PCClient1012 V2.4 - 仅通信+解析+PLC+参数+验证+画图\PCClient1011 V2.4 - 仅通信+解析+PLC+参数\PCClient\PCClient\obj\Debug\PCClient.LoginForm.resources
+C:\test\PCClient1012 V2.4 - 仅通信+解析+PLC+参数+验证+画图\PCClient1011 V2.4 - 仅通信+解析+PLC+参数\PCClient\PCClient\obj\Debug\PCClient.Properties.Resources.resources
+C:\test\PCClient1012 V2.4 - 仅通信+解析+PLC+参数+验证+画图\PCClient1011 V2.4 - 仅通信+解析+PLC+参数\PCClient\PCClient\obj\Debug\PCClient.TestFormServer.resources
+C:\test\PCClient1012 V2.4 - 仅通信+解析+PLC+参数+验证+画图\PCClient1011 V2.4 - 仅通信+解析+PLC+参数\PCClient\PCClient\obj\Debug\PCClient.UIFrame.Check.Checkframe.resources
+C:\test\PCClient1012 V2.4 - 仅通信+解析+PLC+参数+验证+画图\PCClient1011 V2.4 - 仅通信+解析+PLC+参数\PCClient\PCClient\obj\Debug\PCClient.UIFrame.Management.ManagementFrame.resources
+C:\test\PCClient1012 V2.4 - 仅通信+解析+PLC+参数+验证+画图\PCClient1011 V2.4 - 仅通信+解析+PLC+参数\PCClient\PCClient\obj\Debug\PCClient.UIFrame.Query.QueryFrame.resources
+C:\test\PCClient1012 V2.4 - 仅通信+解析+PLC+参数+验证+画图\PCClient1011 V2.4 - 仅通信+解析+PLC+参数\PCClient\PCClient\obj\Debug\PCClient.csproj.GenerateResource.Cache
+C:\test\PCClient1012 V2.4 - 仅通信+解析+PLC+参数+验证+画图\PCClient1011 V2.4 - 仅通信+解析+PLC+参数\PCClient\PCClient\bin\Debug\PCClient.exe.config
+C:\test\PCClient1012 V2.4 - 仅通信+解析+PLC+参数+验证+画图\PCClient1011 V2.4 - 仅通信+解析+PLC+参数\PCClient\PCClient\bin\Debug\PCClient.exe.manifest
+C:\test\PCClient1012 V2.4 - 仅通信+解析+PLC+参数+验证+画图\PCClient1011 V2.4 - 仅通信+解析+PLC+参数\PCClient\PCClient\bin\Debug\PCClient.application
+C:\test\PCClient1012 V2.4 - 仅通信+解析+PLC+参数+验证+画图\PCClient1011 V2.4 - 仅通信+解析+PLC+参数\PCClient\PCClient\bin\Debug\PCClient.exe
+C:\test\PCClient1012 V2.4 - 仅通信+解析+PLC+参数+验证+画图\PCClient1011 V2.4 - 仅通信+解析+PLC+参数\PCClient\PCClient\bin\Debug\PCClient.pdb
+C:\test\PCClient1012 V2.4 - 仅通信+解析+PLC+参数+验证+画图\PCClient1011 V2.4 - 仅通信+解析+PLC+参数\PCClient\PCClient\bin\Debug\ColorimeterDAO.dll
+C:\test\PCClient1012 V2.4 - 仅通信+解析+PLC+参数+验证+画图\PCClient1011 V2.4 - 仅通信+解析+PLC+参数\PCClient\PCClient\bin\Debug\ColorimeterService.dll
+C:\test\PCClient1012 V2.4 - 仅通信+解析+PLC+参数+验证+画图\PCClient1011 V2.4 - 仅通信+解析+PLC+参数\PCClient\PCClient\bin\Debug\SunnyUI.dll
+C:\test\PCClient1012 V2.4 - 仅通信+解析+PLC+参数+验证+画图\PCClient1011 V2.4 - 仅通信+解析+PLC+参数\PCClient\PCClient\bin\Debug\PlcComm.dll
+C:\test\PCClient1012 V2.4 - 仅通信+解析+PLC+参数+验证+画图\PCClient1011 V2.4 - 仅通信+解析+PLC+参数\PCClient\PCClient\bin\Debug\ColorimeterDAO.pdb
+C:\test\PCClient1012 V2.4 - 仅通信+解析+PLC+参数+验证+画图\PCClient1011 V2.4 - 仅通信+解析+PLC+参数\PCClient\PCClient\bin\Debug\ColorimeterService.pdb
+C:\test\PCClient1012 V2.4 - 仅通信+解析+PLC+参数+验证+画图\PCClient1011 V2.4 - 仅通信+解析+PLC+参数\PCClient\PCClient\obj\Debug\PCClient.exe.manifest
+C:\test\PCClient1012 V2.4 - 仅通信+解析+PLC+参数+验证+画图\PCClient1011 V2.4 - 仅通信+解析+PLC+参数\PCClient\PCClient\obj\Debug\PCClient.application
+C:\test\PCClient1012 V2.4 - 仅通信+解析+PLC+参数+验证+画图\PCClient1011 V2.4 - 仅通信+解析+PLC+参数\PCClient\PCClient\obj\Debug\PCClient.exe
+C:\test\PCClient1012 V2.4 - 仅通信+解析+PLC+参数+验证+画图\PCClient1011 V2.4 - 仅通信+解析+PLC+参数\PCClient\PCClient\obj\Debug\PCClient.pdb
+F:\色差仪项目\PCClient1014 V2.5 - 仅通信+解析+PLC+参数+画图+人工输入+自交验\PCClient\PCClient\bin\Debug\PCClient.exe.config
+F:\色差仪项目\PCClient1014 V2.5 - 仅通信+解析+PLC+参数+画图+人工输入+自交验\PCClient\PCClient\obj\Debug\PCClient.exe
+F:\色差仪项目\PCClient1014 V2.5 - 仅通信+解析+PLC+参数+画图+人工输入+自交验\PCClient\PCClient\obj\Debug\PCClient.pdb
+F:\色差仪项目\PCClient1014 V2.5 - 仅通信+解析+PLC+参数+画图+人工输入+自交验\PCClient\PCClient\bin\Debug\PCClient.exe.manifest
+F:\色差仪项目\PCClient1014 V2.5 - 仅通信+解析+PLC+参数+画图+人工输入+自交验\PCClient\PCClient\bin\Debug\PCClient.application
+F:\色差仪项目\PCClient1014 V2.5 - 仅通信+解析+PLC+参数+画图+人工输入+自交验\PCClient\PCClient\bin\Debug\PCClient.exe
+F:\色差仪项目\PCClient1014 V2.5 - 仅通信+解析+PLC+参数+画图+人工输入+自交验\PCClient\PCClient\bin\Debug\PCClient.pdb
+F:\色差仪项目\PCClient1014 V2.5 - 仅通信+解析+PLC+参数+画图+人工输入+自交验\PCClient\PCClient\bin\Debug\ColorimeterDAO.dll
+F:\色差仪项目\PCClient1014 V2.5 - 仅通信+解析+PLC+参数+画图+人工输入+自交验\PCClient\PCClient\bin\Debug\ColorimeterService.dll
+F:\色差仪项目\PCClient1014 V2.5 - 仅通信+解析+PLC+参数+画图+人工输入+自交验\PCClient\PCClient\bin\Debug\Newtonsoft.Json.dll
+F:\色差仪项目\PCClient1014 V2.5 - 仅通信+解析+PLC+参数+画图+人工输入+自交验\PCClient\PCClient\bin\Debug\SunnyUI.dll
+F:\色差仪项目\PCClient1014 V2.5 - 仅通信+解析+PLC+参数+画图+人工输入+自交验\PCClient\PCClient\bin\Debug\PlcComm.dll
+F:\色差仪项目\PCClient1014 V2.5 - 仅通信+解析+PLC+参数+画图+人工输入+自交验\PCClient\PCClient\bin\Debug\ColorimeterDAO.pdb
+F:\色差仪项目\PCClient1014 V2.5 - 仅通信+解析+PLC+参数+画图+人工输入+自交验\PCClient\PCClient\bin\Debug\ColorimeterService.pdb
+F:\色差仪项目\PCClient1014 V2.5 - 仅通信+解析+PLC+参数+画图+人工输入+自交验\PCClient\PCClient\obj\Debug\PCClient.csprojResolveAssemblyReference.cache
+F:\色差仪项目\PCClient1014 V2.5 - 仅通信+解析+PLC+参数+画图+人工输入+自交验\PCClient\PCClient\obj\Debug\PCClient.HomeForm.resources
+F:\色差仪项目\PCClient1014 V2.5 - 仅通信+解析+PLC+参数+画图+人工输入+自交验\PCClient\PCClient\obj\Debug\PCClient.LoginForm.resources
+F:\色差仪项目\PCClient1014 V2.5 - 仅通信+解析+PLC+参数+画图+人工输入+自交验\PCClient\PCClient\obj\Debug\PCClient.Properties.Resources.resources
+F:\色差仪项目\PCClient1014 V2.5 - 仅通信+解析+PLC+参数+画图+人工输入+自交验\PCClient\PCClient\obj\Debug\PCClient.TestFormServer.resources
+F:\色差仪项目\PCClient1014 V2.5 - 仅通信+解析+PLC+参数+画图+人工输入+自交验\PCClient\PCClient\obj\Debug\PCClient.UIFrame.Check.Checkframe.resources
+F:\色差仪项目\PCClient1014 V2.5 - 仅通信+解析+PLC+参数+画图+人工输入+自交验\PCClient\PCClient\obj\Debug\PCClient.UIFrame.Management.ManagementFrame.resources
+F:\色差仪项目\PCClient1014 V2.5 - 仅通信+解析+PLC+参数+画图+人工输入+自交验\PCClient\PCClient\obj\Debug\PCClient.UIFrame.Query.QueryFrame.resources
+F:\色差仪项目\PCClient1014 V2.5 - 仅通信+解析+PLC+参数+画图+人工输入+自交验\PCClient\PCClient\obj\Debug\PCClient.csproj.GenerateResource.Cache
+F:\色差仪项目\PCClient1014 V2.5 - 仅通信+解析+PLC+参数+画图+人工输入+自交验\PCClient\PCClient\obj\Debug\PCClient.exe.manifest
+F:\色差仪项目\PCClient1014 V2.5 - 仅通信+解析+PLC+参数+画图+人工输入+自交验\PCClient\PCClient\obj\Debug\PCClient.application
+C:\test\PCClient1014 V2.5 - 仅通信+解析+PLC+参数+画图+人工输入+自交验\PCClient\PCClient\bin\Debug\PCClient.exe.config
+C:\test\PCClient1014 V2.5 - 仅通信+解析+PLC+参数+画图+人工输入+自交验\PCClient\PCClient\obj\Debug\PCClient.exe
+C:\test\PCClient1014 V2.5 - 仅通信+解析+PLC+参数+画图+人工输入+自交验\PCClient\PCClient\obj\Debug\PCClient.pdb
+C:\test\PCClient1014 V2.5 - 仅通信+解析+PLC+参数+画图+人工输入+自交验\PCClient\PCClient\bin\Debug\PCClient.exe.manifest
+C:\test\PCClient1014 V2.5 - 仅通信+解析+PLC+参数+画图+人工输入+自交验\PCClient\PCClient\bin\Debug\PCClient.application
+C:\test\PCClient1014 V2.5 - 仅通信+解析+PLC+参数+画图+人工输入+自交验\PCClient\PCClient\bin\Debug\PCClient.exe
+C:\test\PCClient1014 V2.5 - 仅通信+解析+PLC+参数+画图+人工输入+自交验\PCClient\PCClient\bin\Debug\PCClient.pdb
+C:\test\PCClient1014 V2.5 - 仅通信+解析+PLC+参数+画图+人工输入+自交验\PCClient\PCClient\bin\Debug\ColorimeterDAO.dll
+C:\test\PCClient1014 V2.5 - 仅通信+解析+PLC+参数+画图+人工输入+自交验\PCClient\PCClient\bin\Debug\ColorimeterService.dll
+C:\test\PCClient1014 V2.5 - 仅通信+解析+PLC+参数+画图+人工输入+自交验\PCClient\PCClient\bin\Debug\SunnyUI.dll
+C:\test\PCClient1014 V2.5 - 仅通信+解析+PLC+参数+画图+人工输入+自交验\PCClient\PCClient\bin\Debug\PlcComm.dll
+C:\test\PCClient1014 V2.5 - 仅通信+解析+PLC+参数+画图+人工输入+自交验\PCClient\PCClient\bin\Debug\ColorimeterDAO.pdb
+C:\test\PCClient1014 V2.5 - 仅通信+解析+PLC+参数+画图+人工输入+自交验\PCClient\PCClient\bin\Debug\ColorimeterService.pdb
+C:\test\PCClient1014 V2.5 - 仅通信+解析+PLC+参数+画图+人工输入+自交验\PCClient\PCClient\obj\Debug\PCClient.csprojResolveAssemblyReference.cache
+C:\test\PCClient1014 V2.5 - 仅通信+解析+PLC+参数+画图+人工输入+自交验\PCClient\PCClient\obj\Debug\PCClient.HomeForm.resources
+C:\test\PCClient1014 V2.5 - 仅通信+解析+PLC+参数+画图+人工输入+自交验\PCClient\PCClient\obj\Debug\PCClient.LoginForm.resources
+C:\test\PCClient1014 V2.5 - 仅通信+解析+PLC+参数+画图+人工输入+自交验\PCClient\PCClient\obj\Debug\PCClient.Properties.Resources.resources
+C:\test\PCClient1014 V2.5 - 仅通信+解析+PLC+参数+画图+人工输入+自交验\PCClient\PCClient\obj\Debug\PCClient.TestFormServer.resources
+C:\test\PCClient1014 V2.5 - 仅通信+解析+PLC+参数+画图+人工输入+自交验\PCClient\PCClient\obj\Debug\PCClient.UIFrame.Check.Checkframe.resources
+C:\test\PCClient1014 V2.5 - 仅通信+解析+PLC+参数+画图+人工输入+自交验\PCClient\PCClient\obj\Debug\PCClient.UIFrame.Management.ManagementFrame.resources
+C:\test\PCClient1014 V2.5 - 仅通信+解析+PLC+参数+画图+人工输入+自交验\PCClient\PCClient\obj\Debug\PCClient.UIFrame.Query.QueryFrame.resources
+C:\test\PCClient1014 V2.5 - 仅通信+解析+PLC+参数+画图+人工输入+自交验\PCClient\PCClient\obj\Debug\PCClient.csproj.GenerateResource.Cache
+C:\test\PCClient1014 V2.5 - 仅通信+解析+PLC+参数+画图+人工输入+自交验\PCClient\PCClient\obj\Debug\PCClient.exe.manifest
+C:\test\PCClient1014 V2.5 - 仅通信+解析+PLC+参数+画图+人工输入+自交验\PCClient\PCClient\obj\Debug\PCClient.application
+C:\test\PCClient1015 V2.5 - 仅通信+解析+PLC+参数+画图+人工输入+自交验+写入PLC\PCClient\PCClient\bin\Debug\PCClient.exe.config
+C:\test\PCClient1015 V2.5 - 仅通信+解析+PLC+参数+画图+人工输入+自交验+写入PLC\PCClient\PCClient\bin\Debug\PCClient.exe.manifest
+C:\test\PCClient1015 V2.5 - 仅通信+解析+PLC+参数+画图+人工输入+自交验+写入PLC\PCClient\PCClient\bin\Debug\PCClient.application
+C:\test\PCClient1015 V2.5 - 仅通信+解析+PLC+参数+画图+人工输入+自交验+写入PLC\PCClient\PCClient\bin\Debug\PCClient.exe
+C:\test\PCClient1015 V2.5 - 仅通信+解析+PLC+参数+画图+人工输入+自交验+写入PLC\PCClient\PCClient\bin\Debug\PCClient.pdb
+C:\test\PCClient1015 V2.5 - 仅通信+解析+PLC+参数+画图+人工输入+自交验+写入PLC\PCClient\PCClient\bin\Debug\ColorimeterDAO.dll
+C:\test\PCClient1015 V2.5 - 仅通信+解析+PLC+参数+画图+人工输入+自交验+写入PLC\PCClient\PCClient\bin\Debug\ColorimeterService.dll
+C:\test\PCClient1015 V2.5 - 仅通信+解析+PLC+参数+画图+人工输入+自交验+写入PLC\PCClient\PCClient\bin\Debug\SunnyUI.dll
+C:\test\PCClient1015 V2.5 - 仅通信+解析+PLC+参数+画图+人工输入+自交验+写入PLC\PCClient\PCClient\bin\Debug\PlcComm.dll
+C:\test\PCClient1015 V2.5 - 仅通信+解析+PLC+参数+画图+人工输入+自交验+写入PLC\PCClient\PCClient\bin\Debug\ColorimeterDAO.pdb
+C:\test\PCClient1015 V2.5 - 仅通信+解析+PLC+参数+画图+人工输入+自交验+写入PLC\PCClient\PCClient\bin\Debug\ColorimeterService.pdb
+C:\test\PCClient1015 V2.5 - 仅通信+解析+PLC+参数+画图+人工输入+自交验+写入PLC\PCClient\PCClient\obj\Debug\PCClient.csprojResolveAssemblyReference.cache
+C:\test\PCClient1015 V2.5 - 仅通信+解析+PLC+参数+画图+人工输入+自交验+写入PLC\PCClient\PCClient\obj\Debug\PCClient.HomeForm.resources
+C:\test\PCClient1015 V2.5 - 仅通信+解析+PLC+参数+画图+人工输入+自交验+写入PLC\PCClient\PCClient\obj\Debug\PCClient.LoginForm.resources
+C:\test\PCClient1015 V2.5 - 仅通信+解析+PLC+参数+画图+人工输入+自交验+写入PLC\PCClient\PCClient\obj\Debug\PCClient.Properties.Resources.resources
+C:\test\PCClient1015 V2.5 - 仅通信+解析+PLC+参数+画图+人工输入+自交验+写入PLC\PCClient\PCClient\obj\Debug\PCClient.TestFormServer.resources
+C:\test\PCClient1015 V2.5 - 仅通信+解析+PLC+参数+画图+人工输入+自交验+写入PLC\PCClient\PCClient\obj\Debug\PCClient.UIFrame.Check.Checkframe.resources
+C:\test\PCClient1015 V2.5 - 仅通信+解析+PLC+参数+画图+人工输入+自交验+写入PLC\PCClient\PCClient\obj\Debug\PCClient.UIFrame.Management.ManagementFrame.resources
+C:\test\PCClient1015 V2.5 - 仅通信+解析+PLC+参数+画图+人工输入+自交验+写入PLC\PCClient\PCClient\obj\Debug\PCClient.UIFrame.Query.QueryFrame.resources
+C:\test\PCClient1015 V2.5 - 仅通信+解析+PLC+参数+画图+人工输入+自交验+写入PLC\PCClient\PCClient\obj\Debug\PCClient.csproj.GenerateResource.Cache
+C:\test\PCClient1015 V2.5 - 仅通信+解析+PLC+参数+画图+人工输入+自交验+写入PLC\PCClient\PCClient\obj\Debug\PCClient.exe.manifest
+C:\test\PCClient1015 V2.5 - 仅通信+解析+PLC+参数+画图+人工输入+自交验+写入PLC\PCClient\PCClient\obj\Debug\PCClient.application
+C:\test\PCClient1015 V2.5 - 仅通信+解析+PLC+参数+画图+人工输入+自交验+写入PLC\PCClient\PCClient\obj\Debug\PCClient.exe
+C:\test\PCClient1015 V2.5 - 仅通信+解析+PLC+参数+画图+人工输入+自交验+写入PLC\PCClient\PCClient\obj\Debug\PCClient.pdb
+C:\test\PCClient1015 V2.5 - 仅通信+解析+PLC+参数+画图+人工输入+自交验+写入PLC+数据查询导出\PCClient\PCClient\bin\Debug\PCClient.exe.config
+C:\test\PCClient1015 V2.5 - 仅通信+解析+PLC+参数+画图+人工输入+自交验+写入PLC+数据查询导出\PCClient\PCClient\obj\Debug\PCClient.exe
+C:\test\PCClient1015 V2.5 - 仅通信+解析+PLC+参数+画图+人工输入+自交验+写入PLC+数据查询导出\PCClient\PCClient\obj\Debug\PCClient.pdb
+C:\test\PCClient1015 V2.5 - 仅通信+解析+PLC+参数+画图+人工输入+自交验+写入PLC+数据查询导出\PCClient\PCClient\obj\Debug\PCClient.csprojResolveAssemblyReference.cache
+C:\test\PCClient1015 V2.5 - 仅通信+解析+PLC+参数+画图+人工输入+自交验+写入PLC+数据查询导出\PCClient\PCClient\obj\Debug\PCClient.HomeForm.resources
+C:\test\PCClient1015 V2.5 - 仅通信+解析+PLC+参数+画图+人工输入+自交验+写入PLC+数据查询导出\PCClient\PCClient\obj\Debug\PCClient.LoginForm.resources
+C:\test\PCClient1015 V2.5 - 仅通信+解析+PLC+参数+画图+人工输入+自交验+写入PLC+数据查询导出\PCClient\PCClient\obj\Debug\PCClient.Properties.Resources.resources
+C:\test\PCClient1015 V2.5 - 仅通信+解析+PLC+参数+画图+人工输入+自交验+写入PLC+数据查询导出\PCClient\PCClient\obj\Debug\PCClient.UIFrame.Query.QueryDetailFrame.resources
+C:\test\PCClient1015 V2.5 - 仅通信+解析+PLC+参数+画图+人工输入+自交验+写入PLC+数据查询导出\PCClient\PCClient\obj\Debug\PCClient.TestFormServer.resources
+C:\test\PCClient1015 V2.5 - 仅通信+解析+PLC+参数+画图+人工输入+自交验+写入PLC+数据查询导出\PCClient\PCClient\obj\Debug\PCClient.UIFrame.Check.Checkframe.resources
+C:\test\PCClient1015 V2.5 - 仅通信+解析+PLC+参数+画图+人工输入+自交验+写入PLC+数据查询导出\PCClient\PCClient\obj\Debug\PCClient.UIFrame.Management.ManagementFrame.resources
+C:\test\PCClient1015 V2.5 - 仅通信+解析+PLC+参数+画图+人工输入+自交验+写入PLC+数据查询导出\PCClient\PCClient\obj\Debug\PCClient.UIFrame.Query.QueryFrame.resources
+C:\test\PCClient1015 V2.5 - 仅通信+解析+PLC+参数+画图+人工输入+自交验+写入PLC+数据查询导出\PCClient\PCClient\obj\Debug\PCClient.csproj.GenerateResource.Cache
+C:\test\PCClient1015 V2.5 - 仅通信+解析+PLC+参数+画图+人工输入+自交验+写入PLC+数据查询导出\PCClient\PCClient\bin\Debug\PCClient.exe.manifest
+C:\test\PCClient1015 V2.5 - 仅通信+解析+PLC+参数+画图+人工输入+自交验+写入PLC+数据查询导出\PCClient\PCClient\bin\Debug\PCClient.application
+C:\test\PCClient1015 V2.5 - 仅通信+解析+PLC+参数+画图+人工输入+自交验+写入PLC+数据查询导出\PCClient\PCClient\bin\Debug\PCClient.exe
+C:\test\PCClient1015 V2.5 - 仅通信+解析+PLC+参数+画图+人工输入+自交验+写入PLC+数据查询导出\PCClient\PCClient\bin\Debug\PCClient.pdb
+C:\test\PCClient1015 V2.5 - 仅通信+解析+PLC+参数+画图+人工输入+自交验+写入PLC+数据查询导出\PCClient\PCClient\bin\Debug\ColorimeterDAO.dll
+C:\test\PCClient1015 V2.5 - 仅通信+解析+PLC+参数+画图+人工输入+自交验+写入PLC+数据查询导出\PCClient\PCClient\bin\Debug\ColorimeterService.dll
+C:\test\PCClient1015 V2.5 - 仅通信+解析+PLC+参数+画图+人工输入+自交验+写入PLC+数据查询导出\PCClient\PCClient\bin\Debug\SunnyUI.dll
+C:\test\PCClient1015 V2.5 - 仅通信+解析+PLC+参数+画图+人工输入+自交验+写入PLC+数据查询导出\PCClient\PCClient\bin\Debug\PlcComm.dll
+C:\test\PCClient1015 V2.5 - 仅通信+解析+PLC+参数+画图+人工输入+自交验+写入PLC+数据查询导出\PCClient\PCClient\bin\Debug\ColorimeterDAO.pdb
+C:\test\PCClient1015 V2.5 - 仅通信+解析+PLC+参数+画图+人工输入+自交验+写入PLC+数据查询导出\PCClient\PCClient\bin\Debug\ColorimeterService.pdb
+C:\test\PCClient1015 V2.5 - 仅通信+解析+PLC+参数+画图+人工输入+自交验+写入PLC+数据查询导出\PCClient\PCClient\obj\Debug\PCClient.exe.manifest
+C:\test\PCClient1015 V2.5 - 仅通信+解析+PLC+参数+画图+人工输入+自交验+写入PLC+数据查询导出\PCClient\PCClient\obj\Debug\PCClient.application
+F:\色差仪项目\PCClient1021 V2.6 - 仅通信+解析+PLC+参数+画图+人工输入+自交验+写入PLC+数据查询导出\PCClient1015 V2.5 - 仅通信+解析+PLC+参数+画图+人工输入+自交验+写入PLC+数据查询导出\PCClient\PCClient\bin\Debug\PCClient.exe.config
+F:\色差仪项目\PCClient1021 V2.6 - 仅通信+解析+PLC+参数+画图+人工输入+自交验+写入PLC+数据查询导出\PCClient1015 V2.5 - 仅通信+解析+PLC+参数+画图+人工输入+自交验+写入PLC+数据查询导出\PCClient\PCClient\obj\Debug\PCClient.exe
+F:\色差仪项目\PCClient1021 V2.6 - 仅通信+解析+PLC+参数+画图+人工输入+自交验+写入PLC+数据查询导出\PCClient1015 V2.5 - 仅通信+解析+PLC+参数+画图+人工输入+自交验+写入PLC+数据查询导出\PCClient\PCClient\obj\Debug\PCClient.pdb
+F:\色差仪项目\PCClient1021 V2.6 - 仅通信+解析+PLC+参数+画图+人工输入+自交验+写入PLC+数据查询导出\PCClient1015 V2.5 - 仅通信+解析+PLC+参数+画图+人工输入+自交验+写入PLC+数据查询导出\PCClient\PCClient\bin\Debug\PCClient.exe.manifest
+F:\色差仪项目\PCClient1021 V2.6 - 仅通信+解析+PLC+参数+画图+人工输入+自交验+写入PLC+数据查询导出\PCClient1015 V2.5 - 仅通信+解析+PLC+参数+画图+人工输入+自交验+写入PLC+数据查询导出\PCClient\PCClient\bin\Debug\PCClient.application
+F:\色差仪项目\PCClient1021 V2.6 - 仅通信+解析+PLC+参数+画图+人工输入+自交验+写入PLC+数据查询导出\PCClient1015 V2.5 - 仅通信+解析+PLC+参数+画图+人工输入+自交验+写入PLC+数据查询导出\PCClient\PCClient\bin\Debug\PCClient.exe
+F:\色差仪项目\PCClient1021 V2.6 - 仅通信+解析+PLC+参数+画图+人工输入+自交验+写入PLC+数据查询导出\PCClient1015 V2.5 - 仅通信+解析+PLC+参数+画图+人工输入+自交验+写入PLC+数据查询导出\PCClient\PCClient\bin\Debug\PCClient.pdb
+F:\色差仪项目\PCClient1021 V2.6 - 仅通信+解析+PLC+参数+画图+人工输入+自交验+写入PLC+数据查询导出\PCClient1015 V2.5 - 仅通信+解析+PLC+参数+画图+人工输入+自交验+写入PLC+数据查询导出\PCClient\PCClient\bin\Debug\ColorimeterDAO.dll
+F:\色差仪项目\PCClient1021 V2.6 - 仅通信+解析+PLC+参数+画图+人工输入+自交验+写入PLC+数据查询导出\PCClient1015 V2.5 - 仅通信+解析+PLC+参数+画图+人工输入+自交验+写入PLC+数据查询导出\PCClient\PCClient\bin\Debug\ColorimeterService.dll
+F:\色差仪项目\PCClient1021 V2.6 - 仅通信+解析+PLC+参数+画图+人工输入+自交验+写入PLC+数据查询导出\PCClient1015 V2.5 - 仅通信+解析+PLC+参数+画图+人工输入+自交验+写入PLC+数据查询导出\PCClient\PCClient\bin\Debug\Newtonsoft.Json.dll
+F:\色差仪项目\PCClient1021 V2.6 - 仅通信+解析+PLC+参数+画图+人工输入+自交验+写入PLC+数据查询导出\PCClient1015 V2.5 - 仅通信+解析+PLC+参数+画图+人工输入+自交验+写入PLC+数据查询导出\PCClient\PCClient\bin\Debug\PlcComm.dll
+F:\色差仪项目\PCClient1021 V2.6 - 仅通信+解析+PLC+参数+画图+人工输入+自交验+写入PLC+数据查询导出\PCClient1015 V2.5 - 仅通信+解析+PLC+参数+画图+人工输入+自交验+写入PLC+数据查询导出\PCClient\PCClient\bin\Debug\SunnyUI.dll
+F:\色差仪项目\PCClient1021 V2.6 - 仅通信+解析+PLC+参数+画图+人工输入+自交验+写入PLC+数据查询导出\PCClient1015 V2.5 - 仅通信+解析+PLC+参数+画图+人工输入+自交验+写入PLC+数据查询导出\PCClient\PCClient\bin\Debug\ColorimeterDAO.pdb
+F:\色差仪项目\PCClient1021 V2.6 - 仅通信+解析+PLC+参数+画图+人工输入+自交验+写入PLC+数据查询导出\PCClient1015 V2.5 - 仅通信+解析+PLC+参数+画图+人工输入+自交验+写入PLC+数据查询导出\PCClient\PCClient\bin\Debug\ColorimeterService.pdb
+F:\色差仪项目\PCClient1021 V2.6 - 仅通信+解析+PLC+参数+画图+人工输入+自交验+写入PLC+数据查询导出\PCClient1015 V2.5 - 仅通信+解析+PLC+参数+画图+人工输入+自交验+写入PLC+数据查询导出\PCClient\PCClient\obj\Debug\PCClient.csprojResolveAssemblyReference.cache
+F:\色差仪项目\PCClient1021 V2.6 - 仅通信+解析+PLC+参数+画图+人工输入+自交验+写入PLC+数据查询导出\PCClient1015 V2.5 - 仅通信+解析+PLC+参数+画图+人工输入+自交验+写入PLC+数据查询导出\PCClient\PCClient\obj\Debug\PCClient.HomeForm.resources
+F:\色差仪项目\PCClient1021 V2.6 - 仅通信+解析+PLC+参数+画图+人工输入+自交验+写入PLC+数据查询导出\PCClient1015 V2.5 - 仅通信+解析+PLC+参数+画图+人工输入+自交验+写入PLC+数据查询导出\PCClient\PCClient\obj\Debug\PCClient.LoginForm.resources
+F:\色差仪项目\PCClient1021 V2.6 - 仅通信+解析+PLC+参数+画图+人工输入+自交验+写入PLC+数据查询导出\PCClient1015 V2.5 - 仅通信+解析+PLC+参数+画图+人工输入+自交验+写入PLC+数据查询导出\PCClient\PCClient\obj\Debug\PCClient.Properties.Resources.resources
+F:\色差仪项目\PCClient1021 V2.6 - 仅通信+解析+PLC+参数+画图+人工输入+自交验+写入PLC+数据查询导出\PCClient1015 V2.5 - 仅通信+解析+PLC+参数+画图+人工输入+自交验+写入PLC+数据查询导出\PCClient\PCClient\obj\Debug\PCClient.UIFrame.Query.QueryDetailFrame.resources
+F:\色差仪项目\PCClient1021 V2.6 - 仅通信+解析+PLC+参数+画图+人工输入+自交验+写入PLC+数据查询导出\PCClient1015 V2.5 - 仅通信+解析+PLC+参数+画图+人工输入+自交验+写入PLC+数据查询导出\PCClient\PCClient\obj\Debug\PCClient.TestFormServer.resources
+F:\色差仪项目\PCClient1021 V2.6 - 仅通信+解析+PLC+参数+画图+人工输入+自交验+写入PLC+数据查询导出\PCClient1015 V2.5 - 仅通信+解析+PLC+参数+画图+人工输入+自交验+写入PLC+数据查询导出\PCClient\PCClient\obj\Debug\PCClient.UIFrame.Check.Checkframe.resources
+F:\色差仪项目\PCClient1021 V2.6 - 仅通信+解析+PLC+参数+画图+人工输入+自交验+写入PLC+数据查询导出\PCClient1015 V2.5 - 仅通信+解析+PLC+参数+画图+人工输入+自交验+写入PLC+数据查询导出\PCClient\PCClient\obj\Debug\PCClient.UIFrame.Management.ManagementFrame.resources
+F:\色差仪项目\PCClient1021 V2.6 - 仅通信+解析+PLC+参数+画图+人工输入+自交验+写入PLC+数据查询导出\PCClient1015 V2.5 - 仅通信+解析+PLC+参数+画图+人工输入+自交验+写入PLC+数据查询导出\PCClient\PCClient\obj\Debug\PCClient.UIFrame.Query.QueryFrame.resources
+F:\色差仪项目\PCClient1021 V2.6 - 仅通信+解析+PLC+参数+画图+人工输入+自交验+写入PLC+数据查询导出\PCClient1015 V2.5 - 仅通信+解析+PLC+参数+画图+人工输入+自交验+写入PLC+数据查询导出\PCClient\PCClient\obj\Debug\PCClient.csproj.GenerateResource.Cache
+F:\色差仪项目\PCClient1021 V2.6 - 仅通信+解析+PLC+参数+画图+人工输入+自交验+写入PLC+数据查询导出\PCClient1015 V2.5 - 仅通信+解析+PLC+参数+画图+人工输入+自交验+写入PLC+数据查询导出\PCClient\PCClient\obj\Debug\PCClient.exe.manifest
+F:\色差仪项目\PCClient1021 V2.6 - 仅通信+解析+PLC+参数+画图+人工输入+自交验+写入PLC+数据查询导出\PCClient1015 V2.5 - 仅通信+解析+PLC+参数+画图+人工输入+自交验+写入PLC+数据查询导出\PCClient\PCClient\obj\Debug\PCClient.application
+C:\test\PCClient1025 V2.6 - 仅通信+解析+PLC+参数+画图+人工输入+自交验+写入PLC+数据查询导出\PCClient1021 V2.6 - 仅通信+解析+PLC+参数+画图+人工输入+自交验+写入PLC+数据查询导出\PCClient1015 V2.5 - 仅通信+解析+PLC+参数+画图+人工输入+自交验+写入PLC+数据查询导出\PCClient\PCClient\bin\Debug\PCClient.exe.config
+C:\test\PCClient1025 V2.6 - 仅通信+解析+PLC+参数+画图+人工输入+自交验+写入PLC+数据查询导出\PCClient1021 V2.6 - 仅通信+解析+PLC+参数+画图+人工输入+自交验+写入PLC+数据查询导出\PCClient1015 V2.5 - 仅通信+解析+PLC+参数+画图+人工输入+自交验+写入PLC+数据查询导出\PCClient\PCClient\obj\Debug\PCClient.exe
+C:\test\PCClient1025 V2.6 - 仅通信+解析+PLC+参数+画图+人工输入+自交验+写入PLC+数据查询导出\PCClient1021 V2.6 - 仅通信+解析+PLC+参数+画图+人工输入+自交验+写入PLC+数据查询导出\PCClient1015 V2.5 - 仅通信+解析+PLC+参数+画图+人工输入+自交验+写入PLC+数据查询导出\PCClient\PCClient\obj\Debug\PCClient.pdb
+C:\test\PCClient1025 V2.6 - 仅通信+解析+PLC+参数+画图+人工输入+自交验+写入PLC+数据查询导出\PCClient1021 V2.6 - 仅通信+解析+PLC+参数+画图+人工输入+自交验+写入PLC+数据查询导出\PCClient1015 V2.5 - 仅通信+解析+PLC+参数+画图+人工输入+自交验+写入PLC+数据查询导出\PCClient\PCClient\obj\Debug\PCClient.csprojResolveAssemblyReference.cache
+C:\test\PCClient1025 V2.6 - 仅通信+解析+PLC+参数+画图+人工输入+自交验+写入PLC+数据查询导出\PCClient\PCClient\bin\Debug\PCClient.exe.config
+C:\test\PCClient1025 V2.6 - 仅通信+解析+PLC+参数+画图+人工输入+自交验+写入PLC+数据查询导出\PCClient\PCClient\bin\Debug\PCClient.exe.manifest
+C:\test\PCClient1025 V2.6 - 仅通信+解析+PLC+参数+画图+人工输入+自交验+写入PLC+数据查询导出\PCClient\PCClient\bin\Debug\PCClient.application
+C:\test\PCClient1025 V2.6 - 仅通信+解析+PLC+参数+画图+人工输入+自交验+写入PLC+数据查询导出\PCClient\PCClient\bin\Debug\PCClient.exe
+C:\test\PCClient1025 V2.6 - 仅通信+解析+PLC+参数+画图+人工输入+自交验+写入PLC+数据查询导出\PCClient\PCClient\bin\Debug\PCClient.pdb
+C:\test\PCClient1025 V2.6 - 仅通信+解析+PLC+参数+画图+人工输入+自交验+写入PLC+数据查询导出\PCClient\PCClient\bin\Debug\ColorimeterDAO.dll
+C:\test\PCClient1025 V2.6 - 仅通信+解析+PLC+参数+画图+人工输入+自交验+写入PLC+数据查询导出\PCClient\PCClient\bin\Debug\ColorimeterService.dll
+C:\test\PCClient1025 V2.6 - 仅通信+解析+PLC+参数+画图+人工输入+自交验+写入PLC+数据查询导出\PCClient\PCClient\bin\Debug\Newtonsoft.Json.dll
+C:\test\PCClient1025 V2.6 - 仅通信+解析+PLC+参数+画图+人工输入+自交验+写入PLC+数据查询导出\PCClient\PCClient\bin\Debug\PlcComm.dll
+C:\test\PCClient1025 V2.6 - 仅通信+解析+PLC+参数+画图+人工输入+自交验+写入PLC+数据查询导出\PCClient\PCClient\bin\Debug\SunnyUI.dll
+C:\test\PCClient1025 V2.6 - 仅通信+解析+PLC+参数+画图+人工输入+自交验+写入PLC+数据查询导出\PCClient\PCClient\bin\Debug\ColorimeterDAO.pdb
+C:\test\PCClient1025 V2.6 - 仅通信+解析+PLC+参数+画图+人工输入+自交验+写入PLC+数据查询导出\PCClient\PCClient\bin\Debug\ColorimeterService.pdb
+C:\test\PCClient1025 V2.6 - 仅通信+解析+PLC+参数+画图+人工输入+自交验+写入PLC+数据查询导出\PCClient\PCClient\obj\Debug\PCClient.csprojResolveAssemblyReference.cache
+C:\test\PCClient1025 V2.6 - 仅通信+解析+PLC+参数+画图+人工输入+自交验+写入PLC+数据查询导出\PCClient\PCClient\obj\Debug\PCClient.HomeForm.resources
+C:\test\PCClient1025 V2.6 - 仅通信+解析+PLC+参数+画图+人工输入+自交验+写入PLC+数据查询导出\PCClient\PCClient\obj\Debug\PCClient.LoginForm.resources
+C:\test\PCClient1025 V2.6 - 仅通信+解析+PLC+参数+画图+人工输入+自交验+写入PLC+数据查询导出\PCClient\PCClient\obj\Debug\PCClient.Properties.Resources.resources
+C:\test\PCClient1025 V2.6 - 仅通信+解析+PLC+参数+画图+人工输入+自交验+写入PLC+数据查询导出\PCClient\PCClient\obj\Debug\PCClient.UIFrame.Query.QueryDetailFrame.resources
+C:\test\PCClient1025 V2.6 - 仅通信+解析+PLC+参数+画图+人工输入+自交验+写入PLC+数据查询导出\PCClient\PCClient\obj\Debug\PCClient.TestFormServer.resources
+C:\test\PCClient1025 V2.6 - 仅通信+解析+PLC+参数+画图+人工输入+自交验+写入PLC+数据查询导出\PCClient\PCClient\obj\Debug\PCClient.UIFrame.Check.Checkframe.resources
+C:\test\PCClient1025 V2.6 - 仅通信+解析+PLC+参数+画图+人工输入+自交验+写入PLC+数据查询导出\PCClient\PCClient\obj\Debug\PCClient.UIFrame.Management.ManagementFrame.resources
+C:\test\PCClient1025 V2.6 - 仅通信+解析+PLC+参数+画图+人工输入+自交验+写入PLC+数据查询导出\PCClient\PCClient\obj\Debug\PCClient.UIFrame.Query.QueryFrame.resources
+C:\test\PCClient1025 V2.6 - 仅通信+解析+PLC+参数+画图+人工输入+自交验+写入PLC+数据查询导出\PCClient\PCClient\obj\Debug\PCClient.csproj.GenerateResource.Cache
+C:\test\PCClient1025 V2.6 - 仅通信+解析+PLC+参数+画图+人工输入+自交验+写入PLC+数据查询导出\PCClient\PCClient\obj\Debug\PCClient.exe.manifest
+C:\test\PCClient1025 V2.6 - 仅通信+解析+PLC+参数+画图+人工输入+自交验+写入PLC+数据查询导出\PCClient\PCClient\obj\Debug\PCClient.application
+C:\test\PCClient1025 V2.6 - 仅通信+解析+PLC+参数+画图+人工输入+自交验+写入PLC+数据查询导出\PCClient\PCClient\obj\Debug\PCClient.exe
+C:\test\PCClient1025 V2.6 - 仅通信+解析+PLC+参数+画图+人工输入+自交验+写入PLC+数据查询导出\PCClient\PCClient\obj\Debug\PCClient.pdb
+E:\色差仪分析项目\PCClient1025 V2.6 - 仅通信+解析+PLC+参数+画图+人工输入+自交验+写入PLC+数据查询导出\PCClient1025 V2.6 - 仅通信+解析+PLC+参数+画图+人工输入+自交验+写入PLC+数据查询导出\PCClient\PCClient\bin\Debug\PCClient.exe.config
+E:\色差仪分析项目\PCClient1025 V2.6 - 仅通信+解析+PLC+参数+画图+人工输入+自交验+写入PLC+数据查询导出\PCClient1025 V2.6 - 仅通信+解析+PLC+参数+画图+人工输入+自交验+写入PLC+数据查询导出\PCClient\PCClient\obj\Debug\PCClient.exe
+E:\色差仪分析项目\PCClient1025 V2.6 - 仅通信+解析+PLC+参数+画图+人工输入+自交验+写入PLC+数据查询导出\PCClient1025 V2.6 - 仅通信+解析+PLC+参数+画图+人工输入+自交验+写入PLC+数据查询导出\PCClient\PCClient\obj\Debug\PCClient.pdb

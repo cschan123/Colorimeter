@@ -1,0 +1,109 @@
+F:\2020-12-14色差仪项目\PCClient\ColorimeterDAO\bin\Debug\ColorimeterDAO.dll.config
+F:\2020-12-14色差仪项目\PCClient\ColorimeterDAO\bin\Debug\ColorimeterDAO.dll
+F:\2020-12-14色差仪项目\PCClient\ColorimeterDAO\bin\Debug\ColorimeterDAO.pdb
+F:\2020-12-14色差仪项目\PCClient\ColorimeterDAO\obj\Debug\ColorimeterDAO.dll
+F:\2020-12-14色差仪项目\PCClient\ColorimeterDAO\obj\Debug\ColorimeterDAO.pdb
+E:\TCPServerAndClient\2020-12-14色差仪项目\PCClient\ColorimeterDAO\bin\Debug\ColorimeterDAO.dll.config
+E:\TCPServerAndClient\2020-12-14色差仪项目\PCClient\ColorimeterDAO\bin\Debug\ColorimeterDAO.dll
+E:\TCPServerAndClient\2020-12-14色差仪项目\PCClient\ColorimeterDAO\bin\Debug\ColorimeterDAO.pdb
+E:\TCPServerAndClient\2020-12-14色差仪项目\PCClient\ColorimeterDAO\obj\Debug\ColorimeterDAO.dll
+E:\TCPServerAndClient\2020-12-14色差仪项目\PCClient\ColorimeterDAO\obj\Debug\ColorimeterDAO.pdb
+C:\PRO\PCClient105\PCClient\ColorimeterDAO\bin\Debug\ColorimeterDAO.dll.config
+C:\PRO\PCClient105\PCClient\ColorimeterDAO\bin\Debug\ColorimeterDAO.dll
+C:\PRO\PCClient105\PCClient\ColorimeterDAO\bin\Debug\ColorimeterDAO.pdb
+C:\PRO\PCClient105\PCClient\ColorimeterDAO\obj\Debug\ColorimeterDAO.csprojResolveAssemblyReference.cache
+C:\PRO\PCClient105\PCClient\ColorimeterDAO\obj\Debug\ColorimeterDAO.dll
+C:\PRO\PCClient105\PCClient\ColorimeterDAO\obj\Debug\ColorimeterDAO.pdb
+E:\TCPServerAndClient\PCClient105 V2\PCClient\ColorimeterDAO\bin\Debug\ColorimeterDAO.dll.config
+E:\TCPServerAndClient\PCClient105 V2\PCClient\ColorimeterDAO\bin\Debug\ColorimeterDAO.dll
+E:\TCPServerAndClient\PCClient105 V2\PCClient\ColorimeterDAO\bin\Debug\ColorimeterDAO.pdb
+E:\TCPServerAndClient\PCClient105 V2\PCClient\ColorimeterDAO\obj\Debug\ColorimeterDAO.csprojResolveAssemblyReference.cache
+E:\TCPServerAndClient\PCClient105 V2\PCClient\ColorimeterDAO\obj\Debug\ColorimeterDAO.dll
+E:\TCPServerAndClient\PCClient105 V2\PCClient\ColorimeterDAO\obj\Debug\ColorimeterDAO.pdb
+F:\2020-12-14色差仪项目\PCClient105 V2\PCClient105 V2\PCClient\ColorimeterDAO\bin\Debug\ColorimeterDAO.dll.config
+F:\2020-12-14色差仪项目\PCClient105 V2\PCClient105 V2\PCClient\ColorimeterDAO\bin\Debug\ColorimeterDAO.dll
+F:\2020-12-14色差仪项目\PCClient105 V2\PCClient105 V2\PCClient\ColorimeterDAO\bin\Debug\ColorimeterDAO.pdb
+F:\2020-12-14色差仪项目\PCClient105 V2\PCClient105 V2\PCClient\ColorimeterDAO\obj\Debug\ColorimeterDAO.dll
+F:\2020-12-14色差仪项目\PCClient105 V2\PCClient105 V2\PCClient\ColorimeterDAO\obj\Debug\ColorimeterDAO.pdb
+F:\2020-12-14色差仪项目\PCClient108 V2.1\PCClient108 V2.1\PCClient\ColorimeterDAO\bin\Debug\ColorimeterDAO.dll.config
+F:\2020-12-14色差仪项目\PCClient108 V2.1\PCClient108 V2.1\PCClient\ColorimeterDAO\bin\Debug\ColorimeterDAO.dll
+F:\2020-12-14色差仪项目\PCClient108 V2.1\PCClient108 V2.1\PCClient\ColorimeterDAO\bin\Debug\ColorimeterDAO.pdb
+F:\2020-12-14色差仪项目\PCClient108 V2.1\PCClient108 V2.1\PCClient\ColorimeterDAO\obj\Debug\ColorimeterDAO.dll
+F:\2020-12-14色差仪项目\PCClient108 V2.1\PCClient108 V2.1\PCClient\ColorimeterDAO\obj\Debug\ColorimeterDAO.pdb
+F:\2020-12-14色差仪项目\PCClient109 V2.2\PCClient\ColorimeterDAO\bin\Debug\ColorimeterDAO.dll.config
+F:\2020-12-14色差仪项目\PCClient109 V2.2\PCClient\ColorimeterDAO\bin\Debug\ColorimeterDAO.dll
+F:\2020-12-14色差仪项目\PCClient109 V2.2\PCClient\ColorimeterDAO\bin\Debug\ColorimeterDAO.pdb
+F:\2020-12-14色差仪项目\PCClient109 V2.2\PCClient\ColorimeterDAO\obj\Debug\ColorimeterDAO.dll
+F:\2020-12-14色差仪项目\PCClient109 V2.2\PCClient\ColorimeterDAO\obj\Debug\ColorimeterDAO.pdb
+F:\2020-12-14色差仪项目\PCClient1010 V2.2 - 仅通信+解析\PCClient\ColorimeterDAO\bin\Debug\ColorimeterDAO.dll.config
+F:\2020-12-14色差仪项目\PCClient1010 V2.2 - 仅通信+解析\PCClient\ColorimeterDAO\bin\Debug\ColorimeterDAO.dll
+F:\2020-12-14色差仪项目\PCClient1010 V2.2 - 仅通信+解析\PCClient\ColorimeterDAO\bin\Debug\ColorimeterDAO.pdb
+F:\2020-12-14色差仪项目\PCClient1010 V2.2 - 仅通信+解析\PCClient\ColorimeterDAO\obj\Debug\ColorimeterDAO.dll
+F:\2020-12-14色差仪项目\PCClient1010 V2.2 - 仅通信+解析\PCClient\ColorimeterDAO\obj\Debug\ColorimeterDAO.pdb
+F:\2020-12-14色差仪项目\PCClient1010 V2.2 - 仅通信+解析\PCClient\ColorimeterDAO\obj\Debug\ColorimeterDAO.csprojResolveAssemblyReference.cache
+C:\test\PCClient1010 V2.3 - 仅通信+解析+PLC\PCClient1010 V2.3 - 仅通信+解析+PLC\PCClient\ColorimeterDAO\bin\Debug\ColorimeterDAO.dll.config
+C:\test\PCClient1010 V2.3 - 仅通信+解析+PLC\PCClient1010 V2.3 - 仅通信+解析+PLC\PCClient\ColorimeterDAO\bin\Debug\ColorimeterDAO.dll
+C:\test\PCClient1010 V2.3 - 仅通信+解析+PLC\PCClient1010 V2.3 - 仅通信+解析+PLC\PCClient\ColorimeterDAO\bin\Debug\ColorimeterDAO.pdb
+C:\test\PCClient1010 V2.3 - 仅通信+解析+PLC\PCClient1010 V2.3 - 仅通信+解析+PLC\PCClient\ColorimeterDAO\obj\Debug\ColorimeterDAO.dll
+C:\test\PCClient1010 V2.3 - 仅通信+解析+PLC\PCClient1010 V2.3 - 仅通信+解析+PLC\PCClient\ColorimeterDAO\obj\Debug\ColorimeterDAO.pdb
+C:\test\PCClient1010 V2.3 - 仅通信+解析+PLC\PCClient1010 V2.3 - 仅通信+解析+PLC\PCClient\ColorimeterDAO\obj\Debug\ColorimeterDAO.csprojResolveAssemblyReference.cache
+E:\TCPServerAndClient\PCClient1010 V2.3 - 仅通信+解析+PLC_合2\PCClient1010 V2.3 - 仅通信+解析+PLC_合\PCClient1010 V2.3 - 仅通信+解析+PLC\PCClient\ColorimeterDAO\bin\Debug\ColorimeterDAO.dll.config
+E:\TCPServerAndClient\PCClient1010 V2.3 - 仅通信+解析+PLC_合2\PCClient1010 V2.3 - 仅通信+解析+PLC_合\PCClient1010 V2.3 - 仅通信+解析+PLC\PCClient\ColorimeterDAO\bin\Debug\ColorimeterDAO.dll
+E:\TCPServerAndClient\PCClient1010 V2.3 - 仅通信+解析+PLC_合2\PCClient1010 V2.3 - 仅通信+解析+PLC_合\PCClient1010 V2.3 - 仅通信+解析+PLC\PCClient\ColorimeterDAO\bin\Debug\ColorimeterDAO.pdb
+E:\TCPServerAndClient\PCClient1010 V2.3 - 仅通信+解析+PLC_合2\PCClient1010 V2.3 - 仅通信+解析+PLC_合\PCClient1010 V2.3 - 仅通信+解析+PLC\PCClient\ColorimeterDAO\obj\Debug\ColorimeterDAO.csprojResolveAssemblyReference.cache
+E:\TCPServerAndClient\PCClient1010 V2.3 - 仅通信+解析+PLC_合2\PCClient1010 V2.3 - 仅通信+解析+PLC_合\PCClient1010 V2.3 - 仅通信+解析+PLC\PCClient\ColorimeterDAO\obj\Debug\ColorimeterDAO.dll
+E:\TCPServerAndClient\PCClient1010 V2.3 - 仅通信+解析+PLC_合2\PCClient1010 V2.3 - 仅通信+解析+PLC_合\PCClient1010 V2.3 - 仅通信+解析+PLC\PCClient\ColorimeterDAO\obj\Debug\ColorimeterDAO.pdb
+F:\2020-12-14色差仪项目\PCClient1011 V2.4 - 仅通信+解析+PLC+参数\PCClient1011 V2.4 - 仅通信+解析+PLC+参数\PCClient\ColorimeterDAO\bin\Debug\ColorimeterDAO.dll.config
+F:\2020-12-14色差仪项目\PCClient1011 V2.4 - 仅通信+解析+PLC+参数\PCClient1011 V2.4 - 仅通信+解析+PLC+参数\PCClient\ColorimeterDAO\bin\Debug\ColorimeterDAO.dll
+F:\2020-12-14色差仪项目\PCClient1011 V2.4 - 仅通信+解析+PLC+参数\PCClient1011 V2.4 - 仅通信+解析+PLC+参数\PCClient\ColorimeterDAO\bin\Debug\ColorimeterDAO.pdb
+F:\2020-12-14色差仪项目\PCClient1011 V2.4 - 仅通信+解析+PLC+参数\PCClient1011 V2.4 - 仅通信+解析+PLC+参数\PCClient\ColorimeterDAO\obj\Debug\ColorimeterDAO.csprojResolveAssemblyReference.cache
+F:\2020-12-14色差仪项目\PCClient1011 V2.4 - 仅通信+解析+PLC+参数\PCClient1011 V2.4 - 仅通信+解析+PLC+参数\PCClient\ColorimeterDAO\obj\Debug\ColorimeterDAO.dll
+F:\2020-12-14色差仪项目\PCClient1011 V2.4 - 仅通信+解析+PLC+参数\PCClient1011 V2.4 - 仅通信+解析+PLC+参数\PCClient\ColorimeterDAO\obj\Debug\ColorimeterDAO.pdb
+C:\test\PCClient1011 V2.4 - 仅通信+解析+PLC+参数\PCClient1011 V2.4 - 仅通信+解析+PLC+参数\PCClient1011 V2.4 - 仅通信+解析+PLC+参数\PCClient\ColorimeterDAO\bin\Debug\ColorimeterDAO.dll.config
+C:\test\PCClient1011 V2.4 - 仅通信+解析+PLC+参数\PCClient1011 V2.4 - 仅通信+解析+PLC+参数\PCClient1011 V2.4 - 仅通信+解析+PLC+参数\PCClient\ColorimeterDAO\bin\Debug\ColorimeterDAO.dll
+C:\test\PCClient1011 V2.4 - 仅通信+解析+PLC+参数\PCClient1011 V2.4 - 仅通信+解析+PLC+参数\PCClient1011 V2.4 - 仅通信+解析+PLC+参数\PCClient\ColorimeterDAO\bin\Debug\ColorimeterDAO.pdb
+C:\test\PCClient1011 V2.4 - 仅通信+解析+PLC+参数\PCClient1011 V2.4 - 仅通信+解析+PLC+参数\PCClient1011 V2.4 - 仅通信+解析+PLC+参数\PCClient\ColorimeterDAO\obj\Debug\ColorimeterDAO.dll
+C:\test\PCClient1011 V2.4 - 仅通信+解析+PLC+参数\PCClient1011 V2.4 - 仅通信+解析+PLC+参数\PCClient1011 V2.4 - 仅通信+解析+PLC+参数\PCClient\ColorimeterDAO\obj\Debug\ColorimeterDAO.pdb
+F:\色差仪项目\PCClient1011 V2.4 - 仅通信+解析+PLC+参数\PCClient\ColorimeterDAO\obj\Debug\ColorimeterDAO.dll
+F:\色差仪项目\PCClient1011 V2.4 - 仅通信+解析+PLC+参数\PCClient\ColorimeterDAO\obj\Debug\ColorimeterDAO.pdb
+F:\色差仪项目\PCClient1011 V2.4 - 仅通信+解析+PLC+参数\PCClient\ColorimeterDAO\bin\Debug\ColorimeterDAO.dll.config
+F:\色差仪项目\PCClient1011 V2.4 - 仅通信+解析+PLC+参数\PCClient\ColorimeterDAO\bin\Debug\ColorimeterDAO.dll
+F:\色差仪项目\PCClient1011 V2.4 - 仅通信+解析+PLC+参数\PCClient\ColorimeterDAO\bin\Debug\ColorimeterDAO.pdb
+C:\test\PCClient1012 V2.4 - 仅通信+解析+PLC+参数+验证+画图\PCClient1011 V2.4 - 仅通信+解析+PLC+参数\PCClient\ColorimeterDAO\bin\Debug\ColorimeterDAO.dll.config
+C:\test\PCClient1012 V2.4 - 仅通信+解析+PLC+参数+验证+画图\PCClient1011 V2.4 - 仅通信+解析+PLC+参数\PCClient\ColorimeterDAO\bin\Debug\ColorimeterDAO.dll
+C:\test\PCClient1012 V2.4 - 仅通信+解析+PLC+参数+验证+画图\PCClient1011 V2.4 - 仅通信+解析+PLC+参数\PCClient\ColorimeterDAO\bin\Debug\ColorimeterDAO.pdb
+C:\test\PCClient1012 V2.4 - 仅通信+解析+PLC+参数+验证+画图\PCClient1011 V2.4 - 仅通信+解析+PLC+参数\PCClient\ColorimeterDAO\obj\Debug\ColorimeterDAO.dll
+C:\test\PCClient1012 V2.4 - 仅通信+解析+PLC+参数+验证+画图\PCClient1011 V2.4 - 仅通信+解析+PLC+参数\PCClient\ColorimeterDAO\obj\Debug\ColorimeterDAO.pdb
+C:\test\PCClient1012 V2.4 - 仅通信+解析+PLC+参数+验证+画图\PCClient1011 V2.4 - 仅通信+解析+PLC+参数\PCClient\ColorimeterDAO\obj\Debug\ColorimeterDAO.csprojResolveAssemblyReference.cache
+F:\色差仪项目\PCClient1014 V2.5 - 仅通信+解析+PLC+参数+画图+人工输入+自交验\PCClient\ColorimeterDAO\bin\Debug\ColorimeterDAO.dll.config
+F:\色差仪项目\PCClient1014 V2.5 - 仅通信+解析+PLC+参数+画图+人工输入+自交验\PCClient\ColorimeterDAO\bin\Debug\ColorimeterDAO.dll
+F:\色差仪项目\PCClient1014 V2.5 - 仅通信+解析+PLC+参数+画图+人工输入+自交验\PCClient\ColorimeterDAO\bin\Debug\ColorimeterDAO.pdb
+F:\色差仪项目\PCClient1014 V2.5 - 仅通信+解析+PLC+参数+画图+人工输入+自交验\PCClient\ColorimeterDAO\obj\Debug\ColorimeterDAO.dll
+F:\色差仪项目\PCClient1014 V2.5 - 仅通信+解析+PLC+参数+画图+人工输入+自交验\PCClient\ColorimeterDAO\obj\Debug\ColorimeterDAO.pdb
+C:\test\PCClient1014 V2.5 - 仅通信+解析+PLC+参数+画图+人工输入+自交验\PCClient\ColorimeterDAO\bin\Debug\ColorimeterDAO.dll.config
+C:\test\PCClient1014 V2.5 - 仅通信+解析+PLC+参数+画图+人工输入+自交验\PCClient\ColorimeterDAO\bin\Debug\ColorimeterDAO.dll
+C:\test\PCClient1014 V2.5 - 仅通信+解析+PLC+参数+画图+人工输入+自交验\PCClient\ColorimeterDAO\bin\Debug\ColorimeterDAO.pdb
+C:\test\PCClient1014 V2.5 - 仅通信+解析+PLC+参数+画图+人工输入+自交验\PCClient\ColorimeterDAO\obj\Debug\ColorimeterDAO.dll
+C:\test\PCClient1014 V2.5 - 仅通信+解析+PLC+参数+画图+人工输入+自交验\PCClient\ColorimeterDAO\obj\Debug\ColorimeterDAO.pdb
+C:\test\PCClient1015 V2.5 - 仅通信+解析+PLC+参数+画图+人工输入+自交验+写入PLC\PCClient\ColorimeterDAO\bin\Debug\ColorimeterDAO.dll.config
+C:\test\PCClient1015 V2.5 - 仅通信+解析+PLC+参数+画图+人工输入+自交验+写入PLC\PCClient\ColorimeterDAO\bin\Debug\ColorimeterDAO.dll
+C:\test\PCClient1015 V2.5 - 仅通信+解析+PLC+参数+画图+人工输入+自交验+写入PLC\PCClient\ColorimeterDAO\bin\Debug\ColorimeterDAO.pdb
+C:\test\PCClient1015 V2.5 - 仅通信+解析+PLC+参数+画图+人工输入+自交验+写入PLC\PCClient\ColorimeterDAO\obj\Debug\ColorimeterDAO.dll
+C:\test\PCClient1015 V2.5 - 仅通信+解析+PLC+参数+画图+人工输入+自交验+写入PLC\PCClient\ColorimeterDAO\obj\Debug\ColorimeterDAO.pdb
+C:\test\PCClient1015 V2.5 - 仅通信+解析+PLC+参数+画图+人工输入+自交验+写入PLC\PCClient\ColorimeterDAO\obj\Debug\ColorimeterDAO.csprojResolveAssemblyReference.cache
+F:\色差仪项目\PCClient1021 V2.6 - 仅通信+解析+PLC+参数+画图+人工输入+自交验+写入PLC+数据查询导出\PCClient1015 V2.5 - 仅通信+解析+PLC+参数+画图+人工输入+自交验+写入PLC+数据查询导出\PCClient\ColorimeterDAO\obj\Debug\ColorimeterDAO.csprojResolveAssemblyReference.cache
+F:\色差仪项目\PCClient1021 V2.6 - 仅通信+解析+PLC+参数+画图+人工输入+自交验+写入PLC+数据查询导出\PCClient1015 V2.5 - 仅通信+解析+PLC+参数+画图+人工输入+自交验+写入PLC+数据查询导出\PCClient\ColorimeterDAO\obj\Debug\ColorimeterDAO.dll
+F:\色差仪项目\PCClient1021 V2.6 - 仅通信+解析+PLC+参数+画图+人工输入+自交验+写入PLC+数据查询导出\PCClient1015 V2.5 - 仅通信+解析+PLC+参数+画图+人工输入+自交验+写入PLC+数据查询导出\PCClient\ColorimeterDAO\obj\Debug\ColorimeterDAO.pdb
+F:\色差仪项目\PCClient1021 V2.6 - 仅通信+解析+PLC+参数+画图+人工输入+自交验+写入PLC+数据查询导出\PCClient1015 V2.5 - 仅通信+解析+PLC+参数+画图+人工输入+自交验+写入PLC+数据查询导出\PCClient\ColorimeterDAO\bin\Debug\ColorimeterDAO.dll.config
+F:\色差仪项目\PCClient1021 V2.6 - 仅通信+解析+PLC+参数+画图+人工输入+自交验+写入PLC+数据查询导出\PCClient1015 V2.5 - 仅通信+解析+PLC+参数+画图+人工输入+自交验+写入PLC+数据查询导出\PCClient\ColorimeterDAO\bin\Debug\ColorimeterDAO.dll
+F:\色差仪项目\PCClient1021 V2.6 - 仅通信+解析+PLC+参数+画图+人工输入+自交验+写入PLC+数据查询导出\PCClient1015 V2.5 - 仅通信+解析+PLC+参数+画图+人工输入+自交验+写入PLC+数据查询导出\PCClient\ColorimeterDAO\bin\Debug\ColorimeterDAO.pdb
+F:\色差仪项目\PCClient1021 V2.6 - 仅通信+解析+PLC+参数+画图+人工输入+自交验+写入PLC+数据查询导出\PCClient1015 V2.5 - 仅通信+解析+PLC+参数+画图+人工输入+自交验+写入PLC+数据查询导出\PCClient\ColorimeterDAO\bin\Debug\Newtonsoft.Json.dll
+F:\色差仪项目\PCClient1021 V2.6 - 仅通信+解析+PLC+参数+画图+人工输入+自交验+写入PLC+数据查询导出\PCClient1015 V2.5 - 仅通信+解析+PLC+参数+画图+人工输入+自交验+写入PLC+数据查询导出\PCClient\ColorimeterDAO\bin\Debug\PlcComm.dll
+C:\test\PCClient1025 V2.6 - 仅通信+解析+PLC+参数+画图+人工输入+自交验+写入PLC+数据查询导出\PCClient\ColorimeterDAO\bin\Debug\ColorimeterDAO.dll.config
+C:\test\PCClient1025 V2.6 - 仅通信+解析+PLC+参数+画图+人工输入+自交验+写入PLC+数据查询导出\PCClient\ColorimeterDAO\bin\Debug\ColorimeterDAO.dll
+C:\test\PCClient1025 V2.6 - 仅通信+解析+PLC+参数+画图+人工输入+自交验+写入PLC+数据查询导出\PCClient\ColorimeterDAO\bin\Debug\ColorimeterDAO.pdb
+C:\test\PCClient1025 V2.6 - 仅通信+解析+PLC+参数+画图+人工输入+自交验+写入PLC+数据查询导出\PCClient\ColorimeterDAO\bin\Debug\Newtonsoft.Json.dll
+C:\test\PCClient1025 V2.6 - 仅通信+解析+PLC+参数+画图+人工输入+自交验+写入PLC+数据查询导出\PCClient\ColorimeterDAO\bin\Debug\PlcComm.dll
+C:\test\PCClient1025 V2.6 - 仅通信+解析+PLC+参数+画图+人工输入+自交验+写入PLC+数据查询导出\PCClient\ColorimeterDAO\obj\Debug\ColorimeterDAO.dll
+C:\test\PCClient1025 V2.6 - 仅通信+解析+PLC+参数+画图+人工输入+自交验+写入PLC+数据查询导出\PCClient\ColorimeterDAO\obj\Debug\ColorimeterDAO.pdb
+C:\test\PCClient1025 V2.6 - 仅通信+解析+PLC+参数+画图+人工输入+自交验+写入PLC+数据查询导出\PCClient\ColorimeterDAO\obj\Debug\ColorimeterDAO.csprojResolveAssemblyReference.cache

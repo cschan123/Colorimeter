@@ -1,0 +1,104 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Database Name="ColorimeterDB" Class="ColorimeterDBDataContext" xmlns="http://schemas.microsoft.com/linqtosql/dbml/2007">
+  <Connection Mode="AppSettings" ConnectionString="Data Source=.;Initial Catalog=ColorimeterDB;User ID=sa" SettingsObjectName="ColorimeterDAO.Properties.Settings" SettingsPropertyName="ColorimeterDBConnectionString" Provider="System.Data.SqlClient" />
+  <Table Name="dbo.ERP" Member="ERP">
+    <Type Name="ERP">
+      <Column Name="COLDCOILNO" Type="System.String" DbType="Char(14) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="ORDTHK" Type="System.Decimal" DbType="Decimal(18,5)" CanBeNull="true" />
+      <Column Name="ORDWTH" Type="System.Decimal" DbType="Decimal(18,5)" CanBeNull="true" />
+      <Column Name="COLOR_UP_CD" Type="System.String" DbType="Char(12)" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.Parameter" Member="Parameter">
+    <Type Name="Parameter">
+      <Column Name="ID" Type="System.Int32" DbType="Int NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="HeadDistance" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="HanFengDistance" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="OperateDistance" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="DirveDistance" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="OperaPorportion" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="DirverPorportion" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="SechayiScanTime" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Column Name="Sechayi_timeLength" Type="System.String" DbType="VarChar(50)" CanBeNull="true" />
+      <Column Name="Sechayi_leftDev" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="Sechayi_RightDev" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="Sechayi_Eloutu" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.PassStd" Member="PassStd">
+    <Type Name="PassStd">
+      <Column Name="ColorCode" Type="System.String" DbType="NVarChar(50) NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="delt_L_std" Type="System.Single" DbType="Real" CanBeNull="true" />
+      <Column Name="delt_a_std" Type="System.Single" DbType="Real" CanBeNull="true" />
+      <Column Name="delt_b_std" Type="System.Single" DbType="Real" CanBeNull="true" />
+      <Column Name="delt_E_std" Type="System.Single" DbType="Real" CanBeNull="true" />
+      <Column Name="color_name" Type="System.String" DbType="NChar(40)" CanBeNull="true" />
+      <Column Name="total_coating_thickness" Type="System.String" DbType="NChar(20)" CanBeNull="true" />
+      <Column Name="pencil_hardnees" Type="System.String" DbType="NChar(20)" CanBeNull="true" />
+      <Column Name="gloss" Type="System.String" DbType="NChar(20)" CanBeNull="true" />
+      <Column Name="T_bending" Type="System.String" DbType="NChar(20)" CanBeNull="true" />
+      <Column Name="reverse_resistance" Type="System.String" DbType="NChar(20)" CanBeNull="true" />
+      <Column Name="solvent_resistance" Type="System.String" DbType="NChar(20)" CanBeNull="true" />
+      <Column Name="L_C" Type="System.Single" DbType="Real" CanBeNull="true" />
+      <Column Name="a_C" Type="System.Single" DbType="Real" CanBeNull="true" />
+      <Column Name="b_C" Type="System.Single" DbType="Real" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.RealTimeProduction" Member="RealTimeProduction">
+    <Type Name="RealTimeProduction">
+      <Column Name="GUID" Type="System.Guid" DbType="UniqueIdentifier NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="ProductTime" Type="System.DateTime" DbType="DateTime NOT NULL" CanBeNull="false" />
+      <Column Name="RollNumber" Type="System.String" DbType="NVarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="SubRollNumber" Type="System.String" DbType="NVarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="ORDWTH" Type="System.Single" DbType="Real NOT NULL" CanBeNull="false" />
+      <Column Name="ColorCode" Type="System.String" DbType="NVarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="Flag" Type="System.String" DbType="NVarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="LengthLocation" Type="System.Single" DbType="Real NOT NULL" CanBeNull="false" />
+      <Column Name="WidthLocation" Type="System.Single" DbType="Real NOT NULL" CanBeNull="false" />
+      <Column Name="RealTimeL" Type="System.Single" DbType="Real NOT NULL" CanBeNull="false" />
+      <Column Name="RealTimeA" Type="System.Single" DbType="Real NOT NULL" CanBeNull="false" />
+      <Column Name="RealTimeB" Type="System.Single" DbType="Real NOT NULL" CanBeNull="false" />
+      <Column Name="RealTimeHeight" Type="System.Single" DbType="Real NOT NULL" CanBeNull="false" />
+      <Column Name="StandardL" Type="System.Single" DbType="Real NOT NULL" CanBeNull="false" />
+      <Column Name="StandardA" Type="System.Single" DbType="Real NOT NULL" CanBeNull="false" />
+      <Column Name="StandardB" Type="System.Single" DbType="Real NOT NULL" CanBeNull="false" />
+      <Column Name="DeltaL" Type="System.Single" DbType="Real NOT NULL" CanBeNull="false" />
+      <Column Name="DeltaA" Type="System.Single" DbType="Real NOT NULL" CanBeNull="false" />
+      <Column Name="DeltaB" Type="System.Single" DbType="Real NOT NULL" CanBeNull="false" />
+      <Column Name="DeltaE" Type="System.Single" DbType="Real NOT NULL" CanBeNull="false" />
+      <Column Name="DeltaL_Std" Type="System.Single" DbType="Real NOT NULL" CanBeNull="false" />
+      <Column Name="DeltaA_Std" Type="System.Single" DbType="Real NOT NULL" CanBeNull="false" />
+      <Column Name="DeltaB_Std" Type="System.Single" DbType="Real NOT NULL" CanBeNull="false" />
+      <Column Name="DeltaE_Std" Type="System.Single" DbType="Real NOT NULL" CanBeNull="false" />
+      <Column Name="DeltaL_Warning" Type="System.Boolean" DbType="Bit NOT NULL" CanBeNull="false" />
+      <Column Name="DeltaA_Warning" Type="System.Boolean" DbType="Bit NOT NULL" CanBeNull="false" />
+      <Column Name="DeltaB_Warning" Type="System.Boolean" DbType="Bit NOT NULL" CanBeNull="false" />
+      <Column Name="DeltaE_Warning" Type="System.Boolean" DbType="Bit NOT NULL" CanBeNull="false" />
+    </Type>
+  </Table>
+  <Table Name="dbo.[User]" Member="User">
+    <Type Name="User">
+      <Column Name="userId" Type="System.Guid" DbType="UniqueIdentifier NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="userName" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+      <Column Name="password" Type="System.String" DbType="NVarChar(50)" CanBeNull="true" />
+    </Type>
+  </Table>
+  <Table Name="dbo.StatisticsProduction" Member="StatisticsProduction">
+    <Type Name="StatisticsProduction">
+      <Column Name="GUID" Type="System.Guid" DbType="UniqueIdentifier NOT NULL" IsPrimaryKey="true" CanBeNull="false" />
+      <Column Name="ProductTime" Type="System.DateTime" DbType="DateTime" CanBeNull="true" />
+      <Column Name="RollNumber" Type="System.String" DbType="NVarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="ColorCode" Type="System.String" DbType="NVarChar(50) NOT NULL" CanBeNull="false" />
+      <Column Name="DeltaL_Mean" Type="System.Single" DbType="Real NOT NULL" CanBeNull="false" />
+      <Column Name="DeltaA_Mean" Type="System.Single" DbType="Real NOT NULL" CanBeNull="false" />
+      <Column Name="DeltaB_Mean" Type="System.Single" DbType="Real NOT NULL" CanBeNull="false" />
+      <Column Name="DeltaE_Mean" Type="System.Single" DbType="Real NOT NULL" CanBeNull="false" />
+      <Column Name="DeltaL_MSE" Type="System.Single" DbType="Real NOT NULL" CanBeNull="false" />
+      <Column Name="DeltaA_MSE" Type="System.Single" DbType="Real NOT NULL" CanBeNull="false" />
+      <Column Name="DeltaB_MSE" Type="System.Single" DbType="Real NOT NULL" CanBeNull="false" />
+      <Column Name="DeltaE_MSE" Type="System.Single" DbType="Real NOT NULL" CanBeNull="false" />
+      <Column Name="flag" Type="System.Single" DbType="Real NOT NULL" CanBeNull="false" />
+      <Column Name="GoodNumber" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+      <Column Name="BadNumber" Type="System.Int32" DbType="Int NOT NULL" CanBeNull="false" />
+    </Type>
+  </Table>
+</Database>

@@ -1,0 +1,450 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <script src="echarts.js"></script>
+    <script src="jquery-1.10.2.min.js" type="text/javascript"></script>
+    <style type="text/css">
+        html {border:0px; overflow:hidden;background-color: black;}
+        
+
+    </style>
+</head>
+<body>
+    
+    <!-- <div id="top" style="width: 700px;height:25px;background-color:rgb(100, 102, 109);">
+        <span style="padding: 10px;font-size: larger;">全</span>&nbsp;&nbsp;
+        <input type="button" style="background-color: white;border: 1px;">
+        <span>∆L</span>&nbsp;&nbsp;<input type="text" style="width: 8%;margin-bottom: 10%;" value="" name="" id="LLL">&nbsp;&nbsp;&nbsp;&nbsp;
+        <input type="button" style="background-color: #DC143C;border: 1px;">
+        <span>∆a</span>&nbsp;&nbsp;<input type="text" style="width: 8%;" name="" id="aaa">&nbsp;&nbsp;
+        <input type="button" style="background-color:#FFFF00;border: 1px;">
+        <span>∆b</span>&nbsp;&nbsp;<input type="text" style="width: 8%;" name="" id="bbb">&nbsp;&nbsp;
+        <input type="button" style="background-color: #00FA9A;border: 1px;">
+        <span>∆E</span>&nbsp;&nbsp;<input type="text" style="width: 8%;" name="" id="EEE">&nbsp;&nbsp;
+        
+        <span>长度</span>&nbsp;&nbsp;<input type="text" style="width: 8%;" name="" id="Len">&nbsp;&nbsp;
+    </div> -->
+    <div id="top2" style="width: 700px;height:25px;background-color:pink;">
+        <span style="padding: 10px;font-size: larger;" >全</span>&nbsp;&nbsp;
+        <input type="button" style="background-color: white;border: 1px;">
+        <span>∆L</span>&nbsp;&nbsp;<input type="text" style="width: 8%;margin-bottom: 10%;" value="" name="" id="LLL2">&nbsp;&nbsp;&nbsp;&nbsp;
+        <input type="button" style="background-color: #DC143C;border: 1px;">
+        <span>∆a</span>&nbsp;&nbsp;<input type="text" style="width: 8%;" name="" id="aaa2">&nbsp;&nbsp;
+        <input type="button" style="background-color:#FFFF00;border: 1px;">
+        <span>∆b</span>&nbsp;&nbsp;<input type="text" style="width: 8%;" name="" id="bbb2">&nbsp;&nbsp;
+        <input type="button" style="background-color: #00FA9A;border: 1px;">
+        <span>∆E</span>&nbsp;&nbsp;<input type="text" style="width: 8%;" name="" id="EEE2">&nbsp;&nbsp;
+        
+        <span>长度</span>&nbsp;&nbsp;<input type="text" style="width: 8%;" name="" id="Len2">&nbsp;&nbsp;
+        
+
+    </div>
+<div  id="container" style="width: 710px;height:350px;" ></div>
+</body>
+<script>
+    var data_Ly=[];
+    var data_ay=[];
+    var data_by=[];
+    var data_Ey=[];
+    var long=[];
+    var data_Ly2=[];
+    var data_ay2=[];
+    var data_by2=[];
+    var data_Ey2=[];
+    var long2=[];
+    var num = 0;
+    var date = [];
+   
+    //     document.getElementById("LLL2").value = data_Ly[0];      
+    // document.getElementById("aaa2").value =  data_Ly[0];
+    // document.getElementById("bbb2").value =data_Ly[0];
+    // document.getElementById("EEE2").value =data_Ly[0] ;
+    // document.getElementById("Len2").value = long[0];
+     
+    function accpetdata(arr_L,arr_a,arr_b,arr_E,arr_changdu) {
+        
+        data_Ly.unshift(arr_L);
+        data_ay.unshift(arr_a);
+        data_by.unshift(arr_b);
+        data_Ey.unshift(arr_E);
+        long.unshift(arr_changdu)
+        document.getElementById("LLL2").value = arr_L;
+        document.getElementById("aaa2").value = arr_a;
+        document.getElementById("bbb2").value = arr_b;
+        document.getElementById("EEE2").value = arr_E;
+        document.getElementById("Len2").value = arr_changdu;
+        //alert(arr_L);
+    //     document.getElementById("LLL2").value = data_Ly[0];      
+    // document.getElementById("aaa2").value =  data_Ly[0];
+    // document.getElementById("bbb2").value =data_Ly[0];
+    // document.getElementById("EEE2").value =data_Ly[0] ;
+    // document.getElementById("Len2").value = long[0];
+    }    
+         
+    
+//    
+    var dom = document.getElementById("container");
+    var myline2 = echarts.init(dom);
+    option = null;
+    //等待的圈圈
+    //myline2.showLoading();
+
+  
+
+    
+    //添加数据到集合去
+    function addData(shift) {      
+        //var tmp = [changdu];
+        long2.push(long[0]);
+        data_Ly2.push(data_Ly[0]);
+        data_ay2.push(data_ay[0]);
+        data_by2.push(data_by[0]);
+        data_Ey2.push(data_Ey[0]);
+        if (shift) {
+            long2.shift();
+            data_Ly2.shift();
+            data_ay2.shift();
+            data_by2.shift();
+            data_Ey2.shift();     
+        }      
+    }
+ 
+    for (var i = 0; i <= 50; i++) {
+        num = num + 10;   
+        addData();     
+    }
+ 
+    //var xcd='CUFen'
+    option ={
+        //设置图标区背景色
+        backgroundColor: {
+                type: 'radial',
+                x: 0.5,
+                y: 0.5,
+                r: 0.8,
+                colorStops: [{
+                    offset: 0, color: 'gray' // 0% 处的颜色
+                }, {
+                    offset: 1, color: 'black' // 100% 处的颜色
+                }],
+                global: false // 缺省为 false
+            },
+        tooltip: {
+            trigger: 'axis',
+            axisPointer: {
+                type: 'cross'
+            },
+            backgroundColor: 'rgba(245, 245, 245, 0.8)',
+            borderWidth: 1,
+            borderColor: '#ccc',
+            padding: 10,
+            textStyle: {
+                color: '#000'
+            },
+            position: function (pos, params, el, elRect, size) {
+                var obj = {top: 10};
+                obj[['left', 'right'][+(pos[0] < size.viewSize[0] / 2)]] = 30;
+                return obj;
+            },
+            extraCssText: 'width: 170px',
+            // formatter: function (params) { 
+                
+                    
+                   
+            //         //alert(option.series[0]);
+            //     }
+            // }
+            // formatter:function(params){
+            //         var LLL = document.getElementById("LLL");
+            //         var aaa = document.getElementById("aaa");
+            //         var bbb = document.getElementById("bbb");
+            //         var EEE = document.getElementById("EEE");
+            //         var gapdu = document.getElementById("gaodu");
+            //         gapdu.value = params[0].name;
+            //         LLL.value = params[3].data;
+            //         aaa.value = params[2].data;
+            //         bbb.value = params[1].data;
+            //         EEE.value = params[0].data; 
+            // }
+        },
+        // axisPointer 游标穿透性
+        axisPointer: {
+            link: {xAxisIndex: 'all',
+            yAxisIndex:'3'
+        },
+            label: {
+                backgroundColor: '#777'
+            }
+        },
+        
+      
+        legend: {
+            x: 'right',
+            textStyle:{
+                color:"#FFFFFF",
+                fontsize:5
+            }
+        },
+        xAxis: [{
+            gridIndex :0,
+            axisLabel:{   
+                show:false,
+                textStyle:{
+                    color:'#FFFFFF'        
+                },
+                interval:0
+            },
+            axisLine: {
+               
+                lineStyle: {
+                    color:'#F0FFFF'
+                    
+                }
+            }, 
+            
+            type: 'category',
+            
+            
+            data: date
+        },{
+            
+            gridIndex :1,
+            axisLabel:{ 
+                show:false,
+                textStyle:{
+                    color:'#FFFFFF'
+                },
+                interval:0
+            },
+            axisLine: {
+                lineStyle: {
+                    color:'#0B438B'
+                }
+            },
+            type: 'category',
+            
+            data: long2
+        },{
+            
+            gridIndex :2,
+            axisLabel:{ 
+                show:false,
+                textStyle:{
+                    color:'#FFFFFF'
+                },
+                interval:0
+            },
+            axisLine: {
+                lineStyle: {
+                    color:'#0B438B'
+                }
+            },
+            type: 'category',
+            
+            data: long2
+        },{
+            gridIndex :3,
+            axisLabel:{ 
+                show:true,
+                textStyle:{
+                    color:'#FFFFFF'
+                },
+                interval:5
+            },
+            axisLine: {
+                lineStyle: {
+                    color:'#0B438B',
+                    
+                }
+            },
+            type: 'category',
+            
+            data: long2
+        },
+    ],
+        yAxis: [{
+            gridIndex:0,
+            minInterval:10,
+            splitLine:{
+                show:false
+            },
+            axisLine: {
+                lineStyle: {
+                    color:'#0B438B'
+                }
+            },
+            axisLabel: {
+                textStyle: {
+                    color: '#FFFFFF'
+                }
+            },
+            boundaryGap: [0, '10%'],
+            type: 'value'
+        },{
+            gridIndex:1,
+            minInterval:10,
+            splitLine:{
+                show:true
+            },
+            axisLine: {
+                lineStyle: {
+                    color:'#0B438B'
+                }
+            },
+            axisLabel: {
+                textStyle: {
+                    color: '#FFFFFF'
+                }
+            },
+            boundaryGap: [0, '10%'],
+            type: 'value'
+        },{
+            gridIndex:2,
+            minInterval:10,
+            splitLine:{
+                show:true
+            },
+            axisLine: {
+                lineStyle: {
+                    color:'#0B438B'
+                }
+            },
+            axisLabel: {
+                textStyle: {
+                    color: '#FFFFFF'
+                }
+            },
+            boundaryGap: [0, '10%'],
+            type: 'value'
+        },{
+            gridIndex:3,
+            minInterval:10,
+            splitLine:{
+                show:true
+            },
+            axisLine: {
+                lineStyle: {
+                    color:'#0B438B'
+                }
+            },
+            axisLabel: {
+                textStyle: {
+                    color: '#FFFFFF'
+                }
+            },
+            boundaryGap: [0, '10%'],
+            type: 'value'
+        }
+    
+    ],
+            
+        grid:[{
+						top:'3%',
+						left: '3%',
+						right: '5%',
+						bottom: '78%'
+					}, {
+						top: '25%',
+						left: '3%',
+						right: '5%',
+						bottom: '53%'
+					},{
+						top: '50%',
+						left: '3%',
+						right: '5%',
+						bottom: '27%'
+					},
+					{
+						top: '76%',
+						left: '3%',
+						right: '5%',
+						bottom: '10%'
+					}],
+        series: [
+            {
+                barWidth:'50%',
+                color: '#F0FFFF',
+                type:'bar',
+                data:data_Ly2,
+                xAxisIndex: 0,
+				yAxisIndex: 0
+            },
+            {
+                barWidth:'50%',
+                color: '#DC143C',
+                type:'bar',
+                data:data_ay2,
+                xAxisIndex: 1,
+				yAxisIndex: 1
+            },
+            {
+                barWidth:'50%',
+                color: '#FFFF00',
+                type:'bar',
+                data:data_by2,
+                xAxisIndex: 2,
+				yAxisIndex: 2
+            },
+            {
+                barWidth:'50%',
+                color: '#00FA9A',
+                //color: 'black',
+                type:'bar',
+                data:data_Ey2,
+                xAxisIndex: 3,
+				yAxisIndex: 3
+            },
+            
+        ]
+    };
+    //设置定时获取
+    setInterval(function () {
+        addData(true);
+        myline2.setOption({
+            
+            xAxis: [{
+                data: long2
+                
+            },{
+                data: long2
+                
+            },{
+                data: long2
+                
+            },
+            {
+                data: long2
+                
+            }
+        ],
+            series: [
+                {
+                   
+                    data: data_Ly2
+                },
+                {
+                    
+                    data: data_ay2
+                },
+                {
+                    
+                    data: data_by2
+                },
+                {
+                    
+                    data: data_Ey2
+                },
+            ]
+        });
+    }, 1000);
+   
+
+    if (option && typeof option === "object") {
+        myline2.setOption(option, true);
+    }
+ 
+    </script>
+</html>

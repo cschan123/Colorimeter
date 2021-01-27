@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 11" name="ColorimeterDB">
+  <DataContextMoniker Name="/ColorimeterDBDataContext" />
+  <nestedChildShapes>
+    <classShape Id="ad5b7cf8-783a-4542-beff-4093ce22a3de" absoluteBounds="0.75, 0.75, 2, 1.5373050944010416">
+      <DataClassMoniker Name="/ColorimeterDBDataContext/ERP" />
+      <nestedChildShapes>
+        <elementListCompartment Id="3fc6d016-1708-47b4-a917-a901408886db" absoluteBounds="0.765, 1.21, 1.9700000000000002, 0.97730509440104174" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="4f0ea37e-cfa5-427a-a354-1143d3411b44" absoluteBounds="3.75, 0.75, 2, 3.0156579589843755">
+      <DataClassMoniker Name="/ColorimeterDBDataContext/Parameter" />
+      <nestedChildShapes>
+        <elementListCompartment Id="02ddac2f-9c83-49f0-bdca-7207b398e541" absoluteBounds="3.765, 1.21, 1.9700000000000002, 2.455657958984375" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="39e3fee1-81a7-43ca-a3d0-79f1913188e5" absoluteBounds="0.75, 4.75, 2, 3.5700402832031237">
+      <DataClassMoniker Name="/ColorimeterDBDataContext/PassStd" />
+      <nestedChildShapes>
+        <elementListCompartment Id="9273b34b-0dc4-4d6b-8822-f98dc38249b9" absoluteBounds="0.765, 5.21, 1.9700000000000002, 3.010040283203125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="5a24fc43-26cb-4cff-bbf7-bcd47447fda8" absoluteBounds="3.75, 4.75, 2, 5.9723636881510416">
+      <DataClassMoniker Name="/ColorimeterDBDataContext/RealTimeProduction" />
+      <nestedChildShapes>
+        <elementListCompartment Id="6e90c9b0-cc93-4372-8c5a-58c82cef0be7" absoluteBounds="3.765, 5.21, 1.9700000000000002, 5.4123636881510411" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="872b4f64-b0ed-46ea-9885-8eeb17af36df" absoluteBounds="6.75, 5.75, 2, 1.3525109863281255">
+      <DataClassMoniker Name="/ColorimeterDBDataContext/User" />
+      <nestedChildShapes>
+        <elementListCompartment Id="96d07516-decf-4a2a-bf8a-267bcc76a396" absoluteBounds="6.765, 6.21, 1.9700000000000002, 0.792510986328125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="ec3ce291-7983-4946-9dae-7309c869c623" absoluteBounds="6.875, 1.375, 2, 3.5700402832031246">
+      <DataClassMoniker Name="/ColorimeterDBDataContext/StatisticsProduction" />
+      <nestedChildShapes>
+        <elementListCompartment Id="d1c732ff-163a-4e01-bfab-728c6791bde3" absoluteBounds="6.89, 1.835, 1.9700000000000002, 3.010040283203125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>

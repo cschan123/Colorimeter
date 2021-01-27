@@ -1,0 +1,154 @@
+<!DOCTYPE html>
+<html style="height: 100%">
+<head>
+    <meta charset="utf-8">
+    <style type="text/css">
+        .boxjkaj{width: 673px;height:378px;}
+
+    </style>
+</head>
+<body style="height: 100%; margin: 0">
+<div class="boxjkaj" id="container" ></div>
+<!-- <script type="text/javascript" src="js/echarts.js"></script> -->
+<script src="echarts.js"></script>
+
+<script type="text/javascript">
+window.console = window.console || (function () {
+    var c = {}; c.log = c.warn = c.debug = c.info = c.error = c.time = c.dir = c.profile
+    = c.clear = c.exception = c.trace = c.assert = function () { };
+    return c;
+})();
+    var dom = document.getElementById("container");
+    var myline2 = echarts.init(dom);
+    option = null;
+    var startTime=[2012,11,11,11,1,1];
+    var d=new Date();
+    d.setFullYear(startTime[0]);
+    d.setMonth(startTime[1]);
+    d.setDate(startTime[2]);
+    d.setHours(startTime[3]);
+    d.setMinutes(startTime[4]);
+    d.setSeconds(startTime[5]);
+ 
+    var base = +d;
+    //后台传递开始
+    var oneDay = 1000;
+    var date = [];
+    var num = 0;
+ 
+    var data1 = [Math.random()];
+    var data2 = [Math.random()];
+ 
+    var now = new Date(base);
+ 
+    function addData(shift) {
+        var tmp = [now.getFullYear(), now.getMonth() + 1, now.getDate()].join('/') + "\n" + [ now.getHours(),  now.getMinutes(),  now.getSeconds()].join(':');
+        date.push(tmp);
+        data1.push((Math.random() - 0.4) * 10 + data1[data1.length - 1]);
+        data2.push((Math.random() - 0.4) * 10 + data1[data1.length - 1]);
+        if (shift) {
+            date.shift();
+            data1.shift();
+            data2.shift();
+        }
+        now = new Date(+new Date(now) + oneDay);
+    }
+ 
+    for (var i = 1; i <= 6; i++) {
+        num = num + 1;
+        addData();
+    }
+ 
+    var xcd='CUFen'
+    option ={
+        backgroundColor:['#00cccc'],
+        color:['#2D7FCC','#87314C'],
+        tooltip: {
+            trigger: 'axis'
+        },
+        legend: {
+            x: 'right',
+            data:[xcd,'CUF'],
+            textStyle:{
+                color:"#FFFFFF",
+                fontsize:5
+            }
+        },
+        xAxis: {
+            axisLabel:{ 
+                textStyle:{
+                    color:'#FFFFFF'
+                },
+                interval:0
+            },
+            axisLine: {
+                lineStyle: {
+                    color:'#0B438B'
+                }
+            },
+            type: 'category',
+            boundaryGap: false,
+            data: date
+        },
+        yAxis: {
+            splitLine:{
+                show:false
+            },
+            axisLine: {
+                lineStyle: {
+                    color:'#0B438B'
+                }
+            },
+            axisLabel: {
+                textStyle: {
+                    color: '#FFFFFF'
+                }
+            },
+            boundaryGap: [0, '50%'],
+            type: 'value'
+        },
+        grid: {
+            top:'3%',
+            left: '1%',
+            right: '5%',
+            bottom: '5%',
+            containLabel: true
+        },
+        series: [
+            {
+                name:'CUFen',
+                type:'bar',
+                data:data1
+            },
+            {
+                name:'CUF',
+                type:'bar',
+                data:data2
+            },
+        ]
+    };
+ 
+    setInterval(function () {
+        addData(true);
+        myline2.setOption({
+            xAxis: {
+                data: date
+            },
+            series: [
+                {
+                    name: 'CUFen',
+                    data: data1
+                },
+                {
+                    name: 'CUF',
+                    data: data2
+                },
+            ]
+        });
+    }, 1000);
+    if (option && typeof option === "object") {
+        myline2.setOption(option, true);
+    }
+</script>
+</body>
+</html>

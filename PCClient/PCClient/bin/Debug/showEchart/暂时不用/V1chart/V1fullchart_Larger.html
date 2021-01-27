@@ -1,0 +1,471 @@
+<!DOCTYPE html>
+<html>
+    
+<head>
+    <meta charset="utf-8">
+    <!-- <meta http-equiv="X-UA-Compatible" content="IE=EmulateIE11" /> -->
+    <!-- <meta http-equiv = "X-UA-Compatible" content = "IE=edge,chrome=1" /> -->
+    <title>ECharts测试</title>
+    <!-- 引入 echarts.js -->
+    <script src="echarts.js"></script>
+    <script src="jquery-1.10.2.min.js"></script>
+    <style type="text/css">
+        html {border:10px; overflow:hidden;width:1000px;height: 800px;background-color:black}
+        #top {width: 100%;height:5%;background-color: grey;display:flex;
+justify-content:center;
+align-items:center;}
+        #container{font-size: larger;width: 100%;height: 80%;}
+
+    </style>
+
+    
+</head>
+<body >
+    <div id="html" style="width: 1400px;height: 800px;">
+    <!-- width: 700px;height:25px; -->
+    <div id="top">
+        <span style="padding: 1%;font-size: larger;">全</span>&nbsp;&nbsp;
+        <input type="button" style="background-color: white;border: 1px">
+        <span>∆L</span>&nbsp;&nbsp;<input type="text" style="width: 8%;" value="" name="" id="LLL">&nbsp;&nbsp;&nbsp;&nbsp;
+        <input type="button" style="background-color: rgb(233, 16, 16);border: 1px">
+        <span>∆a</span>&nbsp;&nbsp;<input type="text" style="width: 8%;" name="" id="aaa">&nbsp;&nbsp;
+        <input type="button" style="background-color: rgb(236, 240, 13);border: 1px">
+        <span>∆b</span>&nbsp;&nbsp;<input type="text" style="width: 8%;" name="" id="bbb">&nbsp;&nbsp;
+        <input type="button" style="background-color: rgb(8, 248, 80);border: 1px">
+        <span>∆E</span>&nbsp;&nbsp;<input type="text" style="width: 8%;" name="" id="EEE">&nbsp;&nbsp;
+        
+        <span>长度</span>&nbsp;&nbsp;<input type="text" style="width: 8%;" name="" id="gaodu">&nbsp;&nbsp;
+        
+    </div>
+    <div id="container">
+
+    </div>
+</div>
+<!-- width: 710px;height:400px -->
+
+<script>
+    
+</script>
+
+<script type="text/javascript">
+
+// window.console = window.console || (function () {
+//     var c = {}; c.log = c.warn = c.debug = c.info = c.error = c.time = c.dir = c.profile
+//     = c.clear = c.exception = c.trace = c.assert = function () { };
+//     return c;
+// })();
+
+
+
+
+    var dom = document.getElementById("container");
+    var myline2 = echarts.init(dom);
+    option = null;
+
+    //设置时间起点
+    var startTime=[2012,11,11,11,1,1];
+    var d=new Date();
+    d.setFullYear(startTime[0]);
+    d.setMonth(startTime[1]);
+    d.setDate(startTime[2]);
+    d.setHours(startTime[3]);
+    d.setMinutes(startTime[4]);
+    d.setSeconds(startTime[5]);
+ 
+    var base = +d;
+    //后台传递开始
+    var oneDay = 1000;
+    var date = [];
+    var num = 0;
+
+    var data_ay = [Math.random()];
+    var data_by = [Math.random()];
+    var data_Ly = [Math.random()];
+    var data_Ey = [Math.random()];
+    
+    var data_aaa = [];
+    
+    //var data2 = [Math.random()];
+  
+ 
+    function accpetdata(data_L,data_a,data_b,data_E){
+        
+       
+        //var data_aaa = [objArray];
+        
+        
+        //window.alert(data_L);
+       // window.alert(data_a);
+//window.alert(data_b);
+        //window.alert(data_E);
+    }
+
+
+    var now = new Date(base);
+    //添加数据到集合去
+    function addData(shift) {
+       // var tmp = [now.getFullYear(), now.getMonth() + 1, now.getDate()].join('/') + "\n" + [ now.getHours(),  now.getMinutes(),  now.getSeconds()].join(':');
+        var tmp = [now.getSeconds()];
+        //date.push(tmp);
+        
+        date.push(tmp);
+        data_Ly.push((Math.random() - 1) +0.5);
+        data_ay.push((Math.random() - 1) +0.5 );
+        data_by.push((Math.random() - 1) +0.5);
+        data_Ey.push((Math.random() - 0.4)  + 1);
+        
+
+        if (shift) {
+            date.shift();
+            data_Ly.shift();
+            data_ay.shift();
+            data_by.shift();
+            data_Ey.shift();
+            
+            
+        }
+        now = new Date(+new Date(now) + oneDay);
+    }
+ 
+    for (var i = 1; i <= 50; i++) {
+        num = num + 1;
+        addData();
+        
+       
+    }
+ 
+    //var xcd='CUFen'
+    option ={
+        backgroundColor: {
+                type: 'radial',
+                x: 0.5,
+                y: 0.5,
+                r: 0.8,
+                colorStops: [{
+                    offset: 0, color: 'gray' // 0% 处的颜色
+                }, {
+                    offset: 1, color: 'black' // 100% 处的颜色
+                }],
+                global: false // 缺省为 false
+            },
+        tooltip: {
+            trigger: 'axis',
+            axisPointer: {
+                type: 'cross'
+            },
+            backgroundColor: 'rgba(245, 245, 245, 0.8)',
+            borderWidth: 1,
+            borderColor: '#ccc',
+            padding: 10,
+            textStyle: {
+                color: '#000'
+            },
+            position: function (pos, params, el, elRect, size) {
+                var obj = {top: 10};
+                obj[['left', 'right'][+(pos[0] < size.viewSize[0] / 2)]] = 30;
+                return obj;
+            },
+            extraCssText: 'width: 170px',
+            // formatter: function (params) { 
+                
+                    
+                   
+            //         //alert(option.series[0]);
+            //     }
+            // }
+            formatter:function(params){
+                
+                
+               // for(var i =0;i<params.length;i++){
+                    
+                    var LLL = document.getElementById("LLL");
+                    var aaa = document.getElementById("aaa");
+                    var bbb = document.getElementById("bbb");
+                    var EEE = document.getElementById("EEE");
+                    var gapdu = document.getElementById("gaodu");
+                    gapdu.value = params[0].name;
+                    LLL.value = params[3].data;
+                    aaa.value = params[2].data;
+                    bbb.value = params[1].data;
+                    EEE.value = params[0].data;
+                    //EEE.value = params[2].series[2].data;
+                    // LLL = params[i].data;
+                    //alert(JSON.stringify(params));
+               // }
+                //alert("ccs"+data_L);
+                
+            }
+            
+		
+        },
+        // axisPointer 游标穿透性
+        axisPointer: {
+            link: {xAxisIndex: 'all'},
+            label: {
+                backgroundColor: '#777'
+            }
+        },
+      
+        legend: {
+            x: 'right',
+            //data:[xcd,'CUF'],
+            textStyle:{
+                color:"#FFFFFF",
+                fontsize:5
+            }
+        },
+        xAxis: [{
+            gridIndex :0,
+            axisLabel:{   
+                show:false,
+                textStyle:{
+                    color:'#FFFFFF'
+                },
+                interval:0
+            },
+            axisLine: {
+               
+                lineStyle: {
+                    color:'#F0FFFF'
+                }
+            }, 
+            
+            type: 'category',
+            
+            data: date
+        },{
+            
+            gridIndex :1,
+            axisLabel:{ 
+                show:false,
+                textStyle:{
+                    color:'#FFFFFF'
+                },
+                interval:0
+            },
+            axisLine: {
+                lineStyle: {
+                    color:'#0B438B'
+                }
+            },
+            type: 'category',
+            
+            data: date
+        },{
+            
+            gridIndex :2,
+            axisLabel:{ 
+                show:false,
+                textStyle:{
+                    color:'#FFFFFF'
+                },
+                interval:0
+            },
+            axisLine: {
+                lineStyle: {
+                    color:'#0B438B'
+                }
+            },
+            type: 'category',
+            
+            data: date
+        },{
+            gridIndex :3,
+            axisLabel:{ 
+                show:true,
+                textStyle:{
+                    color:'#FFFFFF'
+                },
+                interval:5
+            },
+            axisLine: {
+                lineStyle: {
+                    color:'#0B438B'
+                }
+            },
+            type: 'category',
+            
+            data: date
+        },
+    ],
+        yAxis: [{
+            gridIndex:0,
+            minInterval:1,
+            splitLine:{
+                show:false
+            },
+            axisLine: {
+                lineStyle: {
+                    color:'#0B438B'
+                }
+            },
+            axisLabel: {
+                textStyle: {
+                    color: '#FFFFFF'
+                }
+            },
+            boundaryGap: [0, '10%'],
+            type: 'value'
+        },{
+            gridIndex:1,
+            minInterval:1,
+            splitLine:{
+                show:true
+            },
+            axisLine: {
+                lineStyle: {
+                    color:'#0B438B'
+                }
+            },
+            axisLabel: {
+                textStyle: {
+                    color: '#FFFFFF'
+                }
+            },
+            boundaryGap: [0, '10%'],
+            type: 'value'
+        },{
+            gridIndex:2,
+            minInterval:1,
+            splitLine:{
+                show:true
+            },
+            axisLine: {
+                lineStyle: {
+                    color:'#0B438B'
+                }
+            },
+            axisLabel: {
+                textStyle: {
+                    color: '#FFFFFF'
+                }
+            },
+            boundaryGap: [0, '10%'],
+            type: 'value'
+        },{
+            gridIndex:3,
+            minInterval:1,
+            splitLine:{
+                show:true
+            },
+            axisLine: {
+                lineStyle: {
+                    color:'#0B438B'
+                }
+            },
+            axisLabel: {
+                textStyle: {
+                    color: '#FFFFFF'
+                }
+            },
+            boundaryGap: [0, '10%'],
+            type: 'value'
+        }
+    
+    ],
+            
+        grid:[{
+						top:'3%',
+						left: '3%',
+						right: '5%',
+						bottom: '78%'
+					}, {
+						top: '25%',
+						left: '3%',
+						right: '5%',
+						bottom: '53%'
+					},{
+						top: '50%',
+						left: '3%',
+						right: '5%',
+						bottom: '27%'
+					},
+					{
+						top: '76%',
+						left: '3%',
+						right: '5%',
+						bottom: '5%'
+					}],
+        series: [
+            {
+                barWidth:'50%',
+                color: '#F0FFFF',
+                type:'bar',
+                data:data_Ly,
+                xAxisIndex: 0,
+				yAxisIndex: 0
+            },
+            {
+                barWidth:'50%',
+                color: '#DC143C',
+                type:'bar',
+                data:data_ay,
+                xAxisIndex: 1,
+				yAxisIndex: 1
+            },
+            {
+                barWidth:'50%',
+                color: '#FFFF00',
+                type:'bar',
+                data:data_by,
+                xAxisIndex: 2,
+				yAxisIndex: 2
+            },
+            {
+                barWidth:'50%',
+                color: '#00FA9A',
+                type:'bar',
+                data:data_Ey,
+                xAxisIndex: 3,
+				yAxisIndex: 3
+            },
+            
+        ]
+    };
+    //设置定时获取
+    setInterval(function () {
+        addData(true);
+        myline2.setOption({
+            xAxis: [{
+                data: date
+                
+            },{
+                data: date
+                
+            },{
+                data: date
+                
+            },
+            {
+                data: date
+                
+            }
+        ],
+            series: [
+                {
+                   
+                    data: data_Ly
+                },
+                {
+                    
+                    data: data_ay
+                },
+                {
+                    
+                    data: data_by
+                },
+                {
+                    
+                    data: data_Ey
+                },
+            ]
+        });
+    }, 1000);
+
+    if (option && typeof option === "object") {
+        myline2.setOption(option, true);
+    }
+
+</script>
+</body>
+</html>

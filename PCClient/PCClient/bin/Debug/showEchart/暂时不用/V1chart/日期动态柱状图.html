@@ -1,0 +1,342 @@
+<!DOCTYPE html>
+<html style="height: 100%">
+<head>
+    <meta charset="utf-8">
+    <style type="text/css">
+        .boxjkaj{width: 673px;height:378px;background-color:lightslategrey;}
+
+    </style>
+</head>
+<body >
+<div class="boxjkaj" id="container" ></div>
+<!-- <script type="text/javascript" src="js/echarts.js"></script> -->
+<script src="echarts.js"></script>
+<!-- <script src="echarts-all.js"></script> -->
+<script type="text/javascript">
+
+window.console = window.console || (function () {
+    var c = {}; c.log = c.warn = c.debug = c.info = c.error = c.time = c.dir = c.profile
+    = c.clear = c.exception = c.trace = c.assert = function () { };
+    return c;
+})();
+    var dom = document.getElementById("container");
+    var myline2 = echarts.init(dom);
+    option = null;
+
+    //设置时间起点
+    var startTime=[2012,11,11,11,1,1];
+    var d=new Date();
+    d.setFullYear(startTime[0]);
+    d.setMonth(startTime[1]);
+    d.setDate(startTime[2]);
+    d.setHours(startTime[3]);
+    d.setMinutes(startTime[4]);
+    d.setSeconds(startTime[5]);
+ 
+    var base = +d;
+    //后台传递开始
+    var oneDay = 1000;
+    var date = [];
+    var num = 0;
+ 
+    var data1 = [Math.random()];
+    var data2 = [Math.random()];
+    var DaigangLength = [Math.random()];
+ 
+    var now = new Date(base);
+    //添加数据到集合去
+    function addData(shift) {
+        var tmp = [now.getFullYear(), now.getMonth() + 1, now.getDate()].join('/') + "\n" + [ now.getHours(),  now.getMinutes(),  now.getSeconds()].join(':');
+
+        date.push(tmp);
+        //DaigangLength.push((Math.random())+1)
+        data1.push((Math.random() - 0.4)  + 1);
+        data2.push((Math.random() - 0.4) + 1);
+        if (shift) {
+            date.shift();
+            data1.shift();
+            data2.shift();
+        }
+        now = new Date(+new Date(now) + oneDay);
+    }
+ 
+    for (var i = 1; i <= 10; i++) {
+        num = num + 1;
+        addData();
+    }
+ 
+    var xcd='CUFen'
+    option ={
+        backgroundColor:['#00cccc'],
+        color:['#2D7FCC','#87314C'],
+        tooltip: {
+            trigger: 'axis'
+        },
+        legend: {
+            x: 'right',
+            data:[xcd,'CUF'],
+            textStyle:{
+                color:"#FFFFFF",
+                fontsize:5
+            }
+        },
+        xAxis: [{
+            gridIndex :0,
+            axisLabel:{   
+                textStyle:{
+                    color:'#FFFFFF'
+                },
+                interval:0
+            },
+            axisLine: {
+               
+                lineStyle: {
+                    color:'#0B438B'
+                }
+            }, 
+            
+            type: 'category',
+            boundaryGap: false,
+            data: date
+        },{
+            
+            gridIndex :1,
+            axisLabel:{ 
+                show:false,
+                textStyle:{
+                    color:'#FFFFFF'
+                },
+                interval:0
+            },
+            axisLine: {
+                lineStyle: {
+                    color:'#0B438B'
+                }
+            },
+            type: 'category',
+            boundaryGap: false,
+            data: date
+        },{
+            
+            gridIndex :2,
+            axisLabel:{ 
+                show:false,
+                textStyle:{
+                    color:'#FFFFFF'
+                },
+                interval:0
+            },
+            axisLine: {
+                lineStyle: {
+                    color:'#0B438B'
+                }
+            },
+            type: 'category',
+            boundaryGap: false,
+            data: date
+        },{
+            gridIndex :3,
+            axisLabel:{ 
+                show:false,
+                textStyle:{
+                    color:'#FFFFFF'
+                },
+                interval:0
+            },
+            axisLine: {
+                lineStyle: {
+                    color:'#0B438B'
+                }
+            },
+            type: 'category',
+            boundaryGap: false,
+            data: date
+        },
+    ],
+        yAxis: [{
+            gridIndex:0,
+            minInterval:1,
+            splitLine:{
+                show:false
+            },
+            axisLine: {
+                lineStyle: {
+                    color:'#0B438B'
+                }
+            },
+            axisLabel: {
+                textStyle: {
+                    color: '#FFFFFF'
+                }
+            },
+            boundaryGap: [0, '10%'],
+            type: 'value'
+        },{
+            gridIndex:1,
+            minInterval:1,
+            splitLine:{
+                show:false
+            },
+            axisLine: {
+                lineStyle: {
+                    color:'#0B438B'
+                }
+            },
+            axisLabel: {
+                textStyle: {
+                    color: '#FFFFFF'
+                }
+            },
+            boundaryGap: [0, '10%'],
+            type: 'value'
+        },{
+            gridIndex:2,
+            minInterval:1,
+            splitLine:{
+                show:false
+            },
+            axisLine: {
+                lineStyle: {
+                    color:'#0B438B'
+                }
+            },
+            axisLabel: {
+                textStyle: {
+                    color: '#FFFFFF'
+                }
+            },
+            boundaryGap: [0, '10%'],
+            type: 'value'
+        },{
+            gridIndex:3,
+            minInterval:1,
+            splitLine:{
+                show:false
+            },
+            axisLine: {
+                lineStyle: {
+                    color:'#0B438B'
+                }
+            },
+            axisLabel: {
+                textStyle: {
+                    color: '#FFFFFF'
+                }
+            },
+            boundaryGap: [0, '10%'],
+            type: 'value'
+        }
+    
+    ],
+            // yAxis: [ 
+			// 		{
+            //         boundaryGap: [0, '50%'],
+            //         //坐标轴名称
+            //         name: '',
+			// 		minInterval:1,
+            //         //坐标轴type类型：
+            //         //'value' 数值轴，适用于连续数据。
+            //         //'category' 类目轴，适用于离散的类目数据，为该类型时必须通过 data 设置类目数据。
+            //         //'time' 时间轴，适用于连续的时序数据
+            //         //'log' 对数轴。适用于对数数据。
+            //         type : 'value',
+            //         //坐标轴在 grid 区域中的分隔线，true为显示，默认为显示
+            //         splitLine: {show: false},
+			// 		gridIndex: 0
+					
+					
+            //         },
+            //         {
+			// 		name:'',
+			// 		minInterval:1,
+            //             type : 'value',
+            //             splitLine: {show: false},
+            //             gridIndex: 1
+            //         },
+            //         {
+			// 		name:'',
+			// 		minInterval:1,
+            //             type : 'value',
+            //             splitLine: {show: false},
+            //             gridIndex: 2
+            //         },
+			// 		 {
+					
+			// 		name:'',
+			// 		minInterval:1,
+            //             type : 'value',
+            //             splitLine: {show: false},
+            //             gridIndex: 3
+            //         }
+			// ],
+
+
+        // grid: {
+        //     top:'3%',
+        //     left: '1%',
+        //     right: '5%',
+        //     bottom: '5%',
+        //     containLabel: true
+        // },
+        grid:[{
+						top:'5%',
+						left: '5%',
+						right: '3%',
+						bottom: '76%'
+					}, {
+						top: '26%',
+						left: '5%',
+						right: '3%',
+						bottom: '52%'
+					},{
+						top: '50%',
+						left: '5%',
+						right: '3%',
+						bottom: '26%'
+					},
+					{
+						top: '76%',
+						left: '5%',
+						right: '3%',
+						bottom: '5%'
+					}],
+        series: [
+            {
+                barWidth:'10%',
+                name:'CUFen',
+                type:'bar',
+                data:data1
+            },
+            {
+                barWidth:'10%',
+                name:'CUF',
+                type:'bar',
+                data:data2
+            },
+        ]
+    };
+    //设置定时获取
+    setInterval(function () {
+        addData(true);
+        myline2.setOption({
+            xAxis: {
+                data: date
+            },
+            series: [
+                {
+                    name: 'CUFen',
+                    data: data1
+                },
+                {
+                    name: 'CUF',
+                    data: data2
+                },
+            ]
+        });
+    }, 1000);
+    if (option && typeof option === "object") {
+        myline2.setOption(option, true);
+    }
+</script>
+</body>
+</html>

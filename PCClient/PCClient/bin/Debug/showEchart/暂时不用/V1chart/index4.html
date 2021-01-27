@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>ECharts</title>
+    <!-- 引入 echarts.js -->
+    <script src="echarts.js"></script>
+</head>
+<body>
+    <!-- 为ECharts准备一个具备大小（宽高）的Dom -->
+    <div id="main" style="width: 600px;height:400px;"></div>
+    <script type="text/javascript">
+        // 基于准备好的dom，初始化echarts实例
+        var myChart = echarts.init(document.getElementById('main'));
+		option = {
+			title: {
+                text: 'ECharts 入门示例'
+				},
+			legend: {data:['销量']},
+			tooltip: {},
+			dataset: {
+				source: [
+					//['product', '2015', '2016', '2017'],
+					//['Matcha Latte', 43.3, 85.8, 93.7],
+					//['Milk Tea', 83.1, 73.4, 55.1],
+					//['Cheese Cocoa', 86.4, 65.2, 82.5],
+					//['Walnut Brownie', 72.4, 53.9, 39.1]
+
+				]
+			},
+			//type: 'category'
+			xAxis: {data: ["衬衫","羊毛衫","雪纺衫","裤子","高跟鞋","袜子"]},
+			yAxis: {},
+			// Declare several bar series, each will be mapped
+			// to a column of dataset.source by default.
+			series: [
+				//{type: 'bar'},
+				//{type: 'bar'},
+				//{type: 'bar'}
+			{
+				name: '销量',
+                type: 'bar',
+				data: [5, 20, 36, 10, 10, 20]
+			}
+			]
+		};
+
+        // 使用刚指定的配置项和数据显示图表。
+        myChart.setOption(option);
+    </script>
+</body>
+</html>
+
+<script>
+function showChart(option) {
+    myChart.clear();
+    var op = JSON.parse(option);
+    myChart.setOption(op);
+}
+//<u>当控件的尺寸发生变化时调用的 JS 代码 setPosition</u>
+
+
+function setPosition(height) {
+    var divMain = document.getElementById("main");
+    divMain.style.height = height + "px";
+    window.onresize = myChart.resize();
+}
+</script>

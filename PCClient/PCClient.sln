@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.40629.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PCClient", "PCClient\PCClient.csproj", "{EE73F852-3597-43C0-94E0-F6256BD3259E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ColorimeterDAO", "ColorimeterDAO\ColorimeterDAO.csproj", "{447C9A4C-595B-4A90-9E1F-042FB8DD8D30}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ColorimeterService", "ColorimeterService\ColorimeterService.csproj", "{5521633B-E2FE-44B9-8F91-651F528A1D69}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EE73F852-3597-43C0-94E0-F6256BD3259E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE73F852-3597-43C0-94E0-F6256BD3259E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE73F852-3597-43C0-94E0-F6256BD3259E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE73F852-3597-43C0-94E0-F6256BD3259E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{447C9A4C-595B-4A90-9E1F-042FB8DD8D30}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{447C9A4C-595B-4A90-9E1F-042FB8DD8D30}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{447C9A4C-595B-4A90-9E1F-042FB8DD8D30}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{447C9A4C-595B-4A90-9E1F-042FB8DD8D30}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5521633B-E2FE-44B9-8F91-651F528A1D69}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5521633B-E2FE-44B9-8F91-651F528A1D69}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5521633B-E2FE-44B9-8F91-651F528A1D69}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5521633B-E2FE-44B9-8F91-651F528A1D69}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

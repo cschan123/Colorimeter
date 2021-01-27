@@ -1,0 +1,232 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>ECharts</title>
+    <!-- 引入 echarts.js -->
+    <script src="echarts.js"></script>
+</head>
+<body>
+    <!-- 为ECharts准备一个具备大小（宽高）的Dom -->
+	
+    <div id="main" style="width: 673px;height:378px;background-color:pink"></div>
+	
+	
+    <script type="text/javascript">
+	// 解决IE8 浏览器console 未定义 // 对应winform的长度673, 高度378
+	window.console = window.console || (function () {
+    var c = {}; c.log = c.warn = c.debug = c.info = c.error = c.time = c.dir = c.profile
+    = c.clear = c.exception = c.trace = c.assert = function () { };
+    return c;
+})();
+       
+		
+		// y轴的数据   L,a,b ,E 的数据
+		var data_Ly = [0.1,0.2,,0.8,-0.1,0.1,0.-0.1,0.1,0.8,-0.8,0.2,-0.8,0.2,0.9,0.6,0.8,-0.1,0.1,0.8,-0.8,0.2,0.8,-0.1,0.1,0.8,-0.8,0.2]
+		var data_ay = [0.1,0.2,0.9,,0.8,-0.1,-0.1,0.1,0.8,-0.8,0.2,0.1,0.8,-0.8,0.2,0.6,0.8,-0.1,0.1,0.8,0.8,-0.1,0.1,0.8,-0.8,0.2,-0.8,0.2]
+		var data_by = [0.1,0.2,0.9,0.6,-0.1,-0.1,0.1,0.8,-0.8,0.2,0.1,0.8,-0.8,0.2,0.8,-0.1-0.1,0.1,0.8,-0.8,0.2,,0.1,0.8,-0.8,0.2]
+		var data_Ey = [1,0.5,0.3,0.6,0.8,1.9,0.4,1,0.5,0.3,0.6,0.8,1.9,0.4,1,0.5,0.3,0.6,0.8,1.9,0.4,1,0.5,0.3,0.6,0.8,1.9,0.4]
+		//changeData();
+		//X轴横坐标显示   // 带钢的长度
+		var Xdata = [1,2,3,4,5,6,7,8,9,10,1,2,3,4,5,6,7,8,9,10,1,2,3,4,5,6,7,8,9,10]
+		//var Xdata = []
+		
+		
+        var myChart = echarts.init(document.getElementById('main'));
+		option = {
+			title: [
+			
+				//第一个标题
+				{
+				top: '1%',
+				left: '7%',
+                text: ''
+				
+				},
+				{
+				top: '30%',
+				left: '7%',
+                text: ''
+				},
+				{
+				top: '60%',
+				left: '7%',
+                text: ''
+				},
+				{
+				top: '84%',
+				left: '7%',
+                text: ''
+				}
+				
+				],
+			legend: {data:['yzhou']},
+			tooltip: {},
+			dataset: {
+				source: [
+					//['product', '2015', '2016', '2017'],
+					//['Matcha Latte', 43.3, 85.8, 93.7],
+					//['Milk Tea', 83.1, 73.4, 55.1],
+					//['Cheese Cocoa', 86.4, 65.2, 82.5],
+					//['Walnut Brownie', 72.4, 53.9, 39.1]
+
+				]
+			},
+			
+				    xAxis: [{
+					//X轴横坐标显示
+						data: Xdata,
+						boundaryGap: false,
+						//namelocation='middle',
+						axisLabel: {
+							show:false
+						}
+					}, {
+						data: Xdata,
+						gridIndex: 1,
+						axisLabel: {
+							show:false
+						}
+					},{
+						data:Xdata,
+						gridIndex: 2,
+						axisLabel: {
+							show:false
+						}
+					},{
+						name:'aest',
+						//nameLocation = 'center',
+						data:Xdata,
+						gridIndex: 3,
+						axisLabel: {
+							rotate:0
+						}
+						
+						
+					}],
+			
+			yAxis: [ 
+					{
+                    //坐标轴名称
+                    name: '',
+					minInterval:1,
+                    //坐标轴type类型：
+                    //'value' 数值轴，适用于连续数据。
+                    //'category' 类目轴，适用于离散的类目数据，为该类型时必须通过 data 设置类目数据。
+                    //'time' 时间轴，适用于连续的时序数据
+                    //'log' 对数轴。适用于对数数据。
+                    type : 'value',
+                    //坐标轴在 grid 区域中的分隔线，true为显示，默认为显示
+                    splitLine: {show: true},
+					gridIndex: 0
+					
+					
+                    },
+                    {
+					name:'',
+					minInterval:1,
+                        type : 'value',
+                        splitLine: {show: true},
+                        gridIndex: 1
+                    },
+                    {
+					name:'',
+					minInterval:1,
+                        type : 'value',
+                        splitLine: {show: true},
+                        gridIndex: 2
+                    },
+					 {
+					
+					name:'',
+					minInterval:1,
+                        type : 'value',
+                        splitLine: {show: true},
+                        gridIndex: 3
+                    }
+			],
+			 	    grid: [{
+						top:'5%',
+						left: '5%',
+						right: '3%',
+						bottom: '76%'
+					}, {
+						top: '26%',
+						left: '5%',
+						right: '3%',
+						bottom: '52%'
+					},{
+						top: '50%',
+						left: '5%',
+						right: '3%',
+						bottom: '26%'
+					},
+					{
+						top: '76%',
+						left: '5%',
+						right: '3%',
+						bottom: '5%'
+					}],
+			
+			series: [
+				//{type: 'bar'},
+				//{type: 'bar'},
+		
+			{
+				name: 'L',
+                type: 'bar',
+				color: '#F0FFFF',
+				barWidth:'80%',
+				
+				data: data_Ly,
+				xAxisIndex: 0,
+				yAxisIndex: 0
+			},
+			{
+				barWidth:'80%',
+				name: 'a',
+                type: 'bar',
+				color: '#DC143C',
+				data: data_ay,
+				xAxisIndex: 1,
+				yAxisIndex: 1
+			},
+			{
+				barWidth:'80%',
+				name: 'b',
+                type: 'bar',
+				data: data_by,
+				color: '#FFFF00',
+				xAxisIndex: 2,
+				yAxisIndex: 2
+			},
+			{
+				barWidth:'80%',
+				name: 'E',
+                type: 'bar',
+				color: '#00FA9A',
+				data: data_Ey,
+				xAxisIndex: 3,
+				yAxisIndex: 3
+			}
+			
+			]
+		};
+
+		
+        // 使用刚指定的配置项和数据显示图表。
+        myChart.setOption(option);
+
+
+
+
+		
+    </script>
+</body>
+</html>
+
+<script>
+	function changeData(){
+		$("main").Xdata = 1;
+	}
+</script>
